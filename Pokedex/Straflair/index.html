@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" type="image/png" href="https://github.com/SpeccySpec/PokemonSpectral/raw/master/favicon.png" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Straflair - Berry Pokemon</title>
+  <meta name="description" content="">
+  <meta name="author" description="Pokemon Spectral Devteam">
+  <style>
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+<script>
+function openInfo(evt, infoName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(infoName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+</head>
+<body style="background-color:orange;">
+ 
+<div id="container"> <p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/SpeccySpec/PokemonSpectral/raw/master/favicon.png" alt="" width="190" height="190" /></p>
+<h1 style="text-align: center;"><strong><em>Straflair</strong></em></h1>
+<h1 style="text-align: center;"><strong><em>The Berry Pokemon</strong></em></h1>
+
+<p style="text-align: center;">This Pokemon is often mistaken for food. It is offended by this, and often retaliates by engulfing the foe in flames.</p>
+	
+
+<div class="tab">
+  <button class="tablinks" onclick="openInfo(event, 'Base Stats')">Base Stats</button>
+  <button class="tablinks" onclick="openInfo(event, 'Moves')">Moves</button>
+  <button class="tablinks" onclick="openInfo(event, 'Other')">Other</button>
+</div>
+
+<!-- Tab content -->
+<div id="Base Stats" class="tabcontent">
+  <h1>Base Stats</h1>
+  	<p>HP: 60</p>
+	<p>Attack: 55</p>
+	<p>Defense: 41</p>
+	<p>Special Attack: 70</p>
+	<p>Special Defense: 65</p>
+	<p>Speed: 42</p>
+</div>
+
+<div id="Moves" class="tabcontent">
+ 	<h1>Moveset</h1>
+  	<p>Straflair Learns:</p>
+	<p>Pound and Play Nice at level 1</p>
+	<p>Ember at level 7</p>
+	<p>Flame Wheel at level 10</p>
+	<p>Disarming Voice at level 12</p>
+	<p>Yawn at level 19</p>
+	<p>Fire Fang at level 25</p>
+	<p>Flame Burst at level 28</p>
+	<p>Rapid Spin at level 34</p>
+	<p>Flamethrower at level 37</p>
+	<p>Fire Spin at level 43</p>
+	<p>Inferno at level 46</p>
+	
+	<h1>Egg Moves</h1>
+	<p>Straflair will come with</p>
+	<p>Ancient Power, Beat Up, Belly Drum, Bite, Counter, Crunch, Dragon Dance, Dragon Pulse, Dragon Rush, Flare Blitz, Focus Punch, Metal Claw and Outrage as egg moves.</p>
+</div>
+
+<div id="Other" class="tabcontent">
+  	<h1>Abilities:</h1>
+ 	<p>Blaze (H: Effect Spore)</p>
+	<h1>Egg Group:</h1>
+	<p>Monster, Fairy</p>
+	<h1>Growth Rate:</p>
+	<p>Medium Slow</p>
+</div>
+
+<hr />
+<p><a href="https://speccyspec.github.io/PokemonSpectral/Pokedex"><img src="https://github.com/SpeccySpec/PokemonSpectral/raw/master/back.png" alt="" width="90" height="30"></a>
+<hr />
