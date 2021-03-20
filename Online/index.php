@@ -1,1 +1,1 @@
-<?php echo file_get_contents("html/m.html"); ?>
+<?php echo file_get_contents("Online/m.html"); ?>
