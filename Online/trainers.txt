@@ -1,0 +1,1375 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[RIVAL3,Aurora,1]
+Pokemon = LIQUA,5
+    Moves = SCRATCH,GROWL
+#-------------------------------
+[RIVAL3,Aurora,2]
+Pokemon = CHOMPEUR,5
+    Moves = TACKLE,GROWL
+#-------------------------------
+[RIVAL3,Aurora]
+Pokemon = STRAFLAIR,5
+    Moves = POUND,PLAYNICE
+#-------------------------------
+[GRASSTRAINER_M,Fleur]
+Pokemon = HOPPIP,7
+    Moves = POUND,PLAYNICE,SPLASH
+#-------------------------------
+[GRASSTRAINER_F,Quill]
+Pokemon = ODDISH,8
+    Item = ORANBERRY
+Pokemon = BELLSPROUT,8
+#-------------------------------
+[LEADER_Malla,Malla]
+Pokemon = GRASSLE,9
+    Moves = ABSORB,TACKLE,HARDEN,SHELLSMASH
+Pokemon = MORELULL,10
+    Moves = ABSORB,ASTONISH,FLASH,MOONLIGHT
+Pokemon = PLANCHILI,12
+    Moves = PLAYNICE,EMBER,TICKLE,ABSORB
+    Item = ORANBERRY
+#-------------------------------
+[PICNICKER,Amelia]
+LoseText = "Battling is exciting!"
+Pokemon = PICHU,10
+Pokemon = TEDDIURSA,11
+#-------------------------------
+[GENTLEMAN,David]
+LoseText = "Wow... Your Pokemon have stumped me!"
+Pokemon = NIDORANfE,11
+Pokemon = NIDORANmA,11
+#-------------------------------
+[RIVAL3,Aurora,3]
+Pokemon = LUUNROON,10
+Pokemon = TORCHIC,11
+Pokemon = LIQUA,13
+#-------------------------------
+[RIVAL3,Aurora,4]
+Pokemon = LUUNROON,10
+Pokemon = TOTODILE,11
+Pokemon = CHOMPEUR,13
+#-------------------------------
+[RIVAL3,Aurora,5]
+Pokemon = LUUNROON,10
+Pokemon = BULBASAUR,11
+Pokemon = STRAFLAIR,13
+#-------------------------------
+[WATERTRAINER_M,Hesse]
+Pokemon = CHEWTLE,12
+#-------------------------------
+[WATERTRAINER_M,Horus]
+Pokemon = POLIWAG,13
+#-------------------------------
+[WATERTRAINER_F,Aqua]
+Pokemon = OMANYTE,13
+#-------------------------------
+[LEADER_Wave,Wave]
+Pokemon = CRABOT,12
+    Moves = WHIRLPOOL,GROWL,HYPNOSIS,DOUBLESLAP
+Pokemon = SKRELP,13
+    Moves = WHIRLPOOL,ACID,FEINTATTACK,SMOKESCREEN
+Pokemon = STARYU,14
+    Moves = WHIRLPOOL,WATERGUN,RAPIDSPIN,SWIFT
+Pokemon = WAILMER,15
+    Moves = WHIRLPOOL,MIST,GROWL,ASTONISH
+    Item = ORANBERRY
+#-------------------------------
+[TEAMPSYCHO_M,Grunt]
+Pokemon = ESPURR,16
+Pokemon = PORYGON,16
+Pokemon = DROWZEE,17
+Pokemon = DOTTLER,19
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin]
+Pokemon = MINCCINO,18
+    Gender = male
+    Moves = TAILSLAP,CHARM,ECHOEDVOICE,ENCORE
+    Ability = 0
+Pokemon = RAICHU,19
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = GROVYLE,21
+    Gender = male
+    Moves = MEGADRAIN,DRAGONPULSE,LEAFBLADE,ROCKSLIDE
+    Ability = 0
+#-------------------------------
+[HIKER,Breck]
+Pokemon = SANDSLASH,22
+    Moves = FURYCUTTER,MAGNITUDE,FURYSWIPES,CRUSHCLAW
+#-------------------------------
+[HIKER,Sam]
+Pokemon = DREEPY,20
+    Moves = ASTONISH,INFESTATION,QUICKATTACK,BITE
+Pokemon = MUDBRAY,21
+    Moves = ROTOTILLER,BULLDOZE,DOUBLEKICK,STOMP
+#-------------------------------
+[RIVAL5,Aurora]
+Pokemon = LUUNROON,22
+Pokemon = ESPURR,23
+Pokemon = COMBUSKEN,24
+Pokemon = SPINQUID,24
+#-------------------------------
+[RIVAL5,Aurora,1]
+Pokemon = LUUNROON,22
+Pokemon = ESPURR,23
+Pokemon = CROCONAW,24
+Pokemon = PIRANEUR,24
+#-------------------------------
+[RIVAL5,Aurora,2]
+Pokemon = LUUNROON,22
+Pokemon = ESPURR,23
+Pokemon = IVYSAUR,24
+Pokemon = SOUFFLAME,24
+#-------------------------------
+[SWIMMER_F,Isabelle]
+Pokemon = MAGIKARP,20
+Pokemon = QWILFISH,20
+Pokemon = ARROKUDA,20
+Pokemon = FRILLISH,20
+#-------------------------------
+[TUBER2_F,Karry]
+Pokemon = GYARADOS,21
+    Item = ORANBERRY
+#-------------------------------
+[PARTNER1,Aurora]
+Pokemon = LUUNROON,22
+    Moves = SPORE,STRENGTHSAP,SLEEPPOWDER,MOONLIGHT
+    Item = ORANBERRY
+Pokemon = SPINQUID,24
+Pokemon = ESPURR,23
+Pokemon = COMBUSKEN,24
+#-------------------------------
+[PARTNER1,Aurora,1]
+Pokemon = LUUNROON,22
+    Moves = SPORE,STRENGTHSAP,SLEEPPOWDER,MOONLIGHT
+    Item = ORANBERRY
+Pokemon = PIRANEUR,24
+Pokemon = ESPURR,23
+Pokemon = CROCONAW,24
+#-------------------------------
+[PARTNER1,Aurora,2]
+Pokemon = LUUNROON,22
+    Moves = SPORE,STRENGTHSAP,SLEEPPOWDER,MOONLIGHT
+    Item = ORANBERRY
+Pokemon = SOUFFLAME,24
+Pokemon = ESPURR,23
+Pokemon = IVYSAUR,24
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,1]
+Pokemon = ARACHNESIS,23
+    Moves = SLUDGEBOMB,LICK,SCUTTLE,GUNKSHOT
+Pokemon = GRIMER,21
+    Moves = DISABLE,SLUDGE,MINIMIZE,MUDBOMB
+    Ability = 1
+#-------------------------------
+[TEAMPSYCHO_F,Grunt]
+Pokemon = WOBBUFFET,22
+Pokemon = SPOINK,23
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,1]
+Pokemon = HAUNTER,21
+Pokemon = KADABRA,24
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,2]
+Pokemon = BALTOY,23
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,2]
+Pokemon = MISDREAVUS,22
+#-------------------------------
+[FIRETRAINER_M,John]
+Pokemon = VULPIX,22
+Pokemon = SLUGMA,22
+#-------------------------------
+[FIRETRAINER_F,Lilac]
+Pokemon = CARKOL,24
+Pokemon = LITLEO,26
+#-------------------------------
+[FIRETRAINER_F,Lucy]
+Pokemon = NUMEL,25
+Pokemon = LARVESTA,23
+#-------------------------------
+[GYMLEADER_Blaze,Blaze]
+Items = SUPERPOTION,SOULBRACELET
+Pokemon = SOLROCK,23
+    Moves = ROCKPOLISH,ROCKBLAST,FLAREBLITZ,FLAMEDANCE
+Pokemon = SALANDIT,24
+    Moves = FLAMEBURST,VENOSHOCK,FLAMEDANCE,WILLOWISP
+Pokemon = FLETCHINDER,25
+    Moves = STEELWING,ACROBATICS,WILLOWISP,FLAMEDANCE
+Pokemon = ROTOM,26
+    Form = 1
+    Gender = female
+    Moves = SHOCKWAVE,OVERHEAT,FLAMEDANCE,HEX
+    Ability = 0
+    Item = ORANBERRY
+Pokemon = HOUNDOOM,27
+    Moves = THUNDERFANG,FIREFANG,FLAMEDANCE,WILLOWISP
+    Item = SOULCRYSTAL
+#-------------------------------
+[TEAMPSYCHOGENERAL,General]
+Items = SOULBRACELET
+Pokemon = TOXEL,25
+Pokemon = MIMIKYU,26
+Pokemon = MUSHARNA,27
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL6,Aurora]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGETIC,25
+Pokemon = LUUNROON,26
+Pokemon = ESPURR,27
+Pokemon = COMBUSKEN,28
+Pokemon = SPINAQUA,29
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL6,Aurora,1]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGETIC,25
+Pokemon = LUUNROON,26
+Pokemon = ESPURR,27
+Pokemon = CROCONAW,28
+Pokemon = CHOMPLANT,29
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL6,Aurora,2]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGETIC,25
+Pokemon = LUUNROON,26
+Pokemon = ESPURR,27
+Pokemon = IVYSAUR,28
+Pokemon = FLEURMBER,29
+    Item = SOULCRYSTAL
+#-------------------------------
+[YOUNGSTER,Wally]
+Items = SOULBRACELET
+Pokemon = WORMIST,27
+    Item = SOULCRYSTAL
+#-------------------------------
+[ROCKTRAINER_M,Malco]
+Pokemon = OMANYTE,27
+Pokemon = KABUTO,27
+#-------------------------------
+[ROCKTRAINER_F,Luca]
+Pokemon = LYCANROC,27
+Pokemon = LYCANROC,27
+    Form = 1
+    Gender = male
+    Moves = COUNTER,ROCKTOMB,THRASH,TACKLE
+    Ability = 0
+#-------------------------------
+[GYMLEADER_Minero,Minero]
+Items = SUPERPOTION,XATTACK2,SOULBRACELET
+Pokemon = GOLEM,28
+    Form = 1
+    Gender = female
+    Moves = THUNDERPUNCH,ROCKBLAST,SMACKDOWN,STEALTHROCK
+    Ability = 0
+Pokemon = RHYHORN,29
+    Moves = ROCKBLAST,SMACKDOWN,BULLDOZE,STOMP
+Pokemon = LILEEP,30
+    Moves = ROCKBLAST,GIGADRAIN,CONFUSERAY,BRINE
+Pokemon = TOXISNAIL,31
+    Moves = YAWN,ANCIENTPOWER,SLUDGE,TOXICDRENCH
+    Item = ORANBERRY
+Pokemon = AERODACTYL,32
+    Moves = FIREFANG,THUNDERFANG,SKYDROP,ROCKBLAST
+    Item = SOULCRYSTAL
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,3]
+Pokemon = ZAPPIT,30
+Pokemon = SLOWPOKE,31
+#-------------------------------
+[HIKER,Debby]
+Pokemon = SANDUFLY,32
+Pokemon = WOOLOX,33
+#-------------------------------
+[HIKER,Zent]
+Pokemon = TOXEL,34
+#-------------------------------
+[HIKER,Velvet]
+Pokemon = GLOOM,33
+    Moves = STUNSPORE,SLEEPPOWDER,MEGADRAIN,LUCKYCHANT
+Pokemon = FALINKS,34
+    Moves = HEADBUTT,BULKUP,ENDURE,REVERSAL
+Pokemon = POLTEAGEIST,34
+    Moves = MEGADRAIN,PROTECT,SUCKERPUNCH,AROMATHERAPY
+#-------------------------------
+[FLYINGTRAINER,Unawak]
+Pokemon = STARAPTOR,34
+Pokemon = NINJASK,35
+#-------------------------------
+[FLYINGTRAINER,Harama]
+Items = ICEHEAL
+Pokemon = PIDGEOTTO,35
+Pokemon = GLISCOR,37
+Pokemon = PUFFLAME,36
+#-------------------------------
+[GYMLEADER_Sky,Airla]
+Items = HYPERPOTION,ICEHEAL,AWAKENING,SOULBRACELET
+Pokemon = DRIFBLIM,36
+    Moves = PLUCK,PHANTOMFORCE,GUST,PAYBACK
+Pokemon = CROBAT,37
+    Moves = PLUCK,AIRCUTTER,CONFUSERAY,ABSORB
+Pokemon = TROPIUS,38
+    Moves = PLUCK,GUST,LEAFTORNADO,NATURALGIFT
+Pokemon = SANDUFLY,38
+    Moves = PLUCK,BULLDOZE,GUST,ROCKTOMB
+Pokemon = HAWLUCHA,39
+    Moves = PLUCK,SUBMISSION,ENCORE,TAUNT
+    Item = SITRUSBERRY
+Pokemon = SKARMORY,40
+    Moves = PLUCK,STEELWING,SPIKES,NIGHTSLASH
+    Item = SOULCRYSTAL
+#-------------------------------
+[HIKER,Cameron]
+Items = SOULBRACELET
+Pokemon = PIDGEOT,37
+    Item = PIDGEOTITE
+#-------------------------------
+[LADY,Pearla]
+Pokemon = LOPUNNY,37
+Pokemon = GARDEVOIR,38
+#-------------------------------
+[COOLTRAINER_M,Joe]
+Pokemon = CHATOT,38
+Pokemon = VESPIQUEN,39
+Pokemon = ALTARIA,39
+#-------------------------------
+[COOLTRAINER_M,Joe,1]
+Items = SUPERPOTION
+Pokemon = CHATOT,44
+Pokemon = VESPIQUEN,45
+Pokemon = ALTARIA,46
+    Item = ALTARIANITE
+#-------------------------------
+[POKEMANIAC,Loon]
+Pokemon = PICHU,39
+Pokemon = CLEFFA,39
+#-------------------------------
+[YOUNGSTER,Alex]
+Items = POTION
+Pokemon = PIKACHU,38
+Pokemon = EEVEE,38
+#-------------------------------
+[FISHERMAN,Physa]
+Pokemon = MAGIKARP,38
+Pokemon = GYARADOS,39
+#-------------------------------
+[FISHERMAN,Daniel]
+Pokemon = CRABOT,36
+Pokemon = CLAWMASH,40
+#-------------------------------
+[POLICEMAN,David]
+Pokemon = MAGNETON,37
+Pokemon = ELECTABUZZ,37
+Pokemon = ALAKAZAM,38
+Pokemon = CLAWMASH,40
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,1]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,38
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,39
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MAROWAK,40
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = PRIMARINA,41
+    Gender = female
+    Moves = DISARMINGVOICE,BUBBLEBEAM,LIGHTSCREEN,SPARKLINGARIA
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,2]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,38
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,39
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MAROWAK,40
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = SCEPTILE,41
+    Gender = male
+    Moves = GIGADRAIN,DRAGONPULSE,BRICKBREAK,ROCKSLIDE
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,3]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,38
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,39
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MAROWAK,40
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = DELPHOX,41
+    Gender = male
+    Moves = FUTURESIGHT,SHADOWBALL,PSYBEAM,FIREBLAST
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[ICETRAINER,Utive]
+Pokemon = VANILLISH,38
+Pokemon = PILOSWINE,41
+#-------------------------------
+[ICETRAINER,William]
+Pokemon = AVALUGG,39
+Pokemon = CRABOMINABLE,43
+#-------------------------------
+[ICETRAINER_F,Luka]
+Pokemon = LAPRAS,40
+Pokemon = CLOYSTER,42
+#-------------------------------
+[GYMLEADER_Spectrum,Spectrum]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = ABOMASNOW,45
+    Moves = BLIZZARD,GIGADRAIN,FREEZEDRY,EARTHQUAKE
+    Item = SOULCRYSTAL
+Pokemon = BEARTIC,43
+    Moves = BLIZZARD,SUPERPOWER,FREEZEDRY,HAIL
+Pokemon = WAILORD,44
+    Moves = BLIZZARD,HYDROPUMP,FREEZEDRY,HAIL
+Pokemon = AWOOTIC,46
+    Moves = BLIZZARD,CRUNCH,FREEZEDRY,HAIL
+Pokemon = DARMANITAN,47
+    Form = 2
+    Moves = ICICLECRASH,FLAREBLITZ,FREEZEDRY,TAUNT
+    Ability = 2
+Pokemon = NINETALES,48
+    Form = 1
+    Moves = BLIZZARD,DAZZLINGGLEAM,FREEZEDRY,AURORAVEIL
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,4]
+Pokemon = GENGAR,44
+Pokemon = SLOWKING,46
+Pokemon = CORROSLUG,47
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,3]
+Pokemon = DREEPY,40
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,4]
+Items = HYPERPOTION
+Pokemon = HATTERENE,42
+Pokemon = ESPEON,49
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,5]
+Pokemon = PORYGON2,44
+Pokemon = PORYGONZ,50
+#-------------------------------
+[TEAMPSYCHOGENERAL,General,1]
+Pokemon = NOVARIUM,65
+#-------------------------------
+[RIVAL7,Aurora]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGEKISS,50
+Pokemon = LUUNROON,51
+Pokemon = MEOWSTIC,52
+Pokemon = BLAZIKEN,53
+Pokemon = SPINAQUA,54
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,1]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGEKISS,50
+Pokemon = LUUNROON,51
+Pokemon = MEOWSTIC,52
+Pokemon = FERALIGATR,53
+Pokemon = CHOMPLANT,54
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,2]
+Items = SOULBRACELET,SUPERPOTION
+Pokemon = TOGEKISS,50
+Pokemon = LUUNROON,51
+Pokemon = MEOWSTIC,52
+Pokemon = VENUSAUR,53
+Pokemon = FLEURMBER,54
+    Item = SOULCRYSTAL
+#-------------------------------
+[HIKER,Adams]
+Items = SOULBRACELET
+Pokemon = EEVEE,56
+Pokemon = GLACEON,57
+    Item = SOULCRYSTAL
+#-------------------------------
+[HIKER,Nalton]
+Pokemon = UNFEZANT,57
+Pokemon = LUUNROON,58
+#-------------------------------
+[FISHERMAN,Sammy]
+Pokemon = MAGIKARP,48
+Pokemon = GYARADOS,52
+Pokemon = WISHIWASHI,59
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,4]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,56
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,57
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,58
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,59
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = PRIMARINA,60
+    Gender = female
+    Moves = DISARMINGVOICE,BUBBLEBEAM,LIGHTSCREEN,SPARKLINGARIA
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,5]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,56
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,57
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,58
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,59
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = SCEPTILE,60
+    Gender = male
+    Moves = GIGADRAIN,DRAGONPULSE,BRICKBREAK,ROCKSLIDE
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,6]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,56
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,57
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,58
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,59
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = DELPHOX,60
+    Gender = male
+    Moves = FUTURESIGHT,SHADOWBALL,PSYBEAM,FIREBLAST
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[DRAGONTRAINER,Liam]
+Items = SUPERPOTION
+Pokemon = VIBRAVA,50
+Pokemon = EXEGGUTOR,52
+    Form = 1
+#-------------------------------
+[DRAGONTRAINER_F,Alisa]
+Pokemon = DRATINI,55
+Pokemon = LICKITUNG,57
+    Form = 1
+#-------------------------------
+[GYMLEADER_Dracio,Dracio]
+Items = MAXPOTION,FULLRESTORE,SOULBRACELET
+Pokemon = TYRANTRUM,59
+    Moves = CHARM,DRAGONTAIL,EARTHQUAKE,HORNDRILL
+Pokemon = KOMMOO,60
+    Moves = CLANGINGSCALES,DRAGONTAIL,CLOSECOMBAT,FIREPUNCH
+Pokemon = KINGDRA,61
+    Moves = DRAGONTAIL,HYDROPUMP,AGILITY,BREAKINGSWIPE
+Pokemon = TURTONATOR,62
+    Form = 1
+    Moves = DRAGONTAIL,SHELLTRAP,IRONDEFENSE,EXPLOSION
+Pokemon = FLYGON,63
+    Moves = DRAGONTAIL,DRAGONDANCE,EARTHPOWER,BUGBUZZ
+Pokemon = DRACOCICLE,64
+    Item = SOULCRYSTAL
+#-------------------------------
+[COOLTRAINER_M,Ember]
+Pokemon = ARCANINE,60
+    Form = 1
+    Item = SALACBERRY
+Pokemon = COPPERAJAH,61
+#-------------------------------
+[BLACKBELT,Maine]
+Pokemon = MACHAMP,61
+Pokemon = DEEL,62
+#-------------------------------
+[BEAUTY,Loma]
+Pokemon = HAPPINY,60
+Pokemon = CLEFFA,60
+#-------------------------------
+[BEAUTY,Loma,1]
+Pokemon = CHANSEY,65
+Pokemon = CLEFAIRY,66
+#-------------------------------
+[BEAUTY,Loma,2]
+Pokemon = CHANSEY,70
+Pokemon = CLEFABLE,70
+Pokemon = ARACHNESIS,71
+#-------------------------------
+[BEAUTY,Loma,3]
+Pokemon = BLISSEY,77
+Pokemon = CLEFABLE,78
+Pokemon = ESPANTULA,79
+#-------------------------------
+[RIVAL7,Aurora,6]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,62
+Pokemon = LUUNROON,63
+Pokemon = MEOWSTIC,64
+Pokemon = EEVEE,65
+Pokemon = BLAZIKEN,66
+Pokemon = SPINAQUA,67
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,7]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,62
+Pokemon = LUUNROON,63
+Pokemon = MEOWSTIC,64
+Pokemon = EEVEE,65
+Pokemon = FERALIGATR,66
+Pokemon = CHOMPLANT,67
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,8]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,62
+Pokemon = LUUNROON,63
+Pokemon = MEOWSTIC,64
+Pokemon = EEVEE,65
+Pokemon = VENUSAUR,66
+Pokemon = FLEURMBER,67
+    Item = SOULCRYSTAL
+#-------------------------------
+[AROMALADY,Alise]
+Pokemon = EEVEE,61
+Pokemon = UMBREON,62
+#-------------------------------
+[AROMALADY,Alise,1]
+Items = SOULBRACELET
+Pokemon = EEVEE,65
+Pokemon = UMBREON,66
+Pokemon = SYLVEON,67
+    Item = SOULCRYSTAL
+Pokemon = ESPEON,68
+    Item = SALACBERRY
+#-------------------------------
+[YOUNGSTER,Joey]
+Pokemon = RATTATA,63
+    Moves = SUPERFANG,SUBSTITUTE,SCARYFACE,QUICKATTACK
+#-------------------------------
+[YOUNGSTER,Joey,1]
+Items = POTION
+Pokemon = RATICATE,68
+    Moves = SUPERFANG,SUBSTITUTE,ENDEAVOR,QUICKATTACK
+    Item = ORANBERRY
+#-------------------------------
+[YOUNGSTER,Joey,2]
+Items = HYPERPOTION,SOULBRACELET
+Pokemon = RATICATE,75
+    Moves = HYPERFANG,SUBSTITUTE,ENDEAVOR,QUICKATTACK
+    Item = SOULCRYSTAL
+#-------------------------------
+[MULTITRAINER,Joell]
+Pokemon = TOXTRICITY,63
+Pokemon = DURALUDON,63
+#-------------------------------
+[MULTITRAINER_F,Attar]
+Items = XATTACK6
+Pokemon = WOOLOX,63
+#-------------------------------
+[MULTITRAINER,Deffar]
+Items = XDEFENSE6
+Pokemon = TURTONATOR,63
+#-------------------------------
+[MULTITRAINER,Shura]
+Items = XACCURACY6
+Pokemon = PORYGON,64
+    Moves = LOCKON
+#-------------------------------
+[MULTITRAINER,Specian]
+Items = XSPATK6
+Pokemon = ALAKAZAM,64
+#-------------------------------
+[MULTITRAINER_F,Spedian]
+Items = XSPATK6
+Pokemon = FLORGES,64
+#-------------------------------
+[GYMLEADER_Zeno,Zeno]
+Items = MAXPOTION,FULLRESTORE,SOULBRACELET
+Pokemon = RAICHU,64
+Pokemon = CROBAT,64
+Pokemon = GLACEON,65
+Pokemon = FLYGON,66
+Pokemon = SWAMPERT,66
+Pokemon = TYPHLOSION,67
+    Item = SOULCRYSTAL
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,6]
+Pokemon = GRUMPIG,64
+Pokemon = BALTOY,64
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,5]
+Pokemon = ICESCREAM,62
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,6]
+Pokemon = CORROSLUG,63
+Pokemon = COTSNOOS,64
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,7]
+Items = MAXPOTION
+Pokemon = ESPEON,63
+#-------------------------------
+[TEAMPSYCHO_M,Grunt,7]
+Pokemon = RAICHU,63
+Pokemon = INDEEDEE,63
+Pokemon = HATTERENE,63
+#-------------------------------
+[TEAMPSYCHO_F,Grunt,8]
+Items = MAXPOTION
+Pokemon = RAMPARDOS,65
+    Form = 1
+    Item = MAGOBERRY
+#-------------------------------
+[TEAMPSYCHOLEADER,Azazel]
+Items = MAXPOTION,HYPERPOTION,SOULBRACELET
+Pokemon = MUSHARNA,64
+Pokemon = MALAMAR,65
+Pokemon = XATU,66
+Pokemon = ALAKAZAM,67
+    Item = SOULCRYSTAL
+#-------------------------------
+[ACETRAINER_F,Marlie]
+Items = HYPERPOTION
+Pokemon = FUOCAT,63
+Pokemon = BUGRUNE,64
+Pokemon = HATTERENE,65
+#-------------------------------
+[ACETRAINER_M,Jax]
+Pokemon = REUNICLUS,64
+Pokemon = ZWEILOUS,65
+#-------------------------------
+[ACETRAINER_F,Jess]
+Pokemon = EXCADRILL,65
+    Form = 1
+    Item = METALCOAT
+Pokemon = ARCANINE,66
+    Form = 1
+    Item = MAGNET
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,7]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,64
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,65
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,66
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,67
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = PRIMARINA,68
+    Gender = female
+    Moves = DISARMINGVOICE,BUBBLEBEAM,LIGHTSCREEN,SPARKLINGARIA
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,8]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,64
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,65
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,66
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,67
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = SCEPTILE,68
+    Gender = male
+    Moves = GIGADRAIN,DRAGONPULSE,BRICKBREAK,ROCKSLIDE
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Colin,Colin,9]
+Items = MAXPOTION,SOULBRACELET
+Pokemon = CINCCINO,64
+    Gender = male
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,ENCORE
+    Ability = 0
+Pokemon = RAICHU,65
+    Form = 1
+    Gender = male
+    Moves = VOLTSWITCH,ELECTROWEB,NASTYPLOT,TAILWHIP
+    Ability = 0
+Pokemon = MEOWSTIC,66
+    Gender = male
+    Moves = LIGHTSCREEN,REFLECT,SWIFT,SUCKERPUNCH
+    Ability = 0
+Pokemon = MAROWAK,67
+    Form = 1
+    Gender = female
+    Moves = FIRESPIN,SHADOWBALL,STOMPINGTANTRUM,BONERUSH
+    Ability = 0
+Pokemon = DELPHOX,68
+    Gender = male
+    Moves = FUTURESIGHT,SHADOWBALL,PSYBEAM,FIREBLAST
+    Ability = 0
+    Item = SOULCRYSTAL
+#-------------------------------
+[ACETRAINER_M,Eave]
+Items = XSPATK
+Pokemon = RAMPARDOS,66
+    Form = 1
+Pokemon = DEEL,66
+    Form = 1
+#-------------------------------
+[ACETRAINER_M,Eave]
+Items = XSPATK
+Pokemon = CORROSLUG,66
+Pokemon = HEATMOR,67
+    Form = 1
+#-------------------------------
+[ACETRAINER_M,Dom]
+Pokemon = STEELIX,67
+#-------------------------------
+[RIVAL7,Aurora,3]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,64
+Pokemon = LUUNROON,66
+Pokemon = MEOWSTIC,67
+Pokemon = LEAFEON,67
+Pokemon = BLAZIKEN,68
+Pokemon = SPINAQUA,68
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,4]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,64
+Pokemon = LUUNROON,66
+Pokemon = MEOWSTIC,67
+Pokemon = FLAREON,67
+Pokemon = FERALIGATR,68
+Pokemon = CHOMPLANT,68
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL7,Aurora,5]
+Items = SOULBRACELET,HYPERPOTION
+Pokemon = TOGEKISS,64
+Pokemon = LUUNROON,66
+Pokemon = MEOWSTIC,67
+Pokemon = VAPOREON,67
+Pokemon = VENUSAUR,68
+Pokemon = FLEURMBER,68
+    Item = SOULCRYSTAL
+#-------------------------------
+[ELITEFOUR,Mistro]
+Items = SOULBRACELET,MAXPOTION,FULLRESTORE
+Pokemon = FLOATZEL,66
+Pokemon = HELIOLISK,67
+Pokemon = UNFEZANT,68
+Pokemon = CORVIKNIGHT,69
+    Item = SALACBERRY
+Pokemon = SHIFTRY,70
+    Item = SOULCRYSTAL
+#-------------------------------
+[ELITEFOUR2,Poppi]
+Items = SOULBRACELET,FULLRESTORE,FULLRESTORE
+Pokemon = CHIMECHO,66
+Pokemon = CHATOT,67
+Pokemon = OBSTAGOON,68
+Pokemon = MAGNETON,69
+    Form = 1
+    Item = SALACBERRY
+Pokemon = EXPLOUD,70
+    Item = SOULCRYSTAL
+#-------------------------------
+[GYMLEADER_Whitney,Whitney]
+Pokemon = CLEFAIRY,35
+    Moves = MIMIC,ENCORE,DOUBLESLAP,METRONOME
+Pokemon = MILTANK,37
+    Moves = STOMP,ROLLOUT,ATTRACT,MILKDRINK
+    Item = LUMBERRY
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = SOULBRACELET
+Pokemon = STEELIX,50
+    Moves = STEALTHROCK,DRAGONBREATH,SANDTOMB,IRONTAIL
+    Item = STEELIXITE
+    IV = 21
+Pokemon = SUDOWOODO,50
+    Moves = STONEEDGE,HAMMERARM,WOODHAMMER,SUCKERPUNCH
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = RHYPERIOR,50
+    Moves = THUNDERBOLT,ROCKBLAST,HAMMERARM,DRILLRUN
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = KABUTOPS,50
+    Moves = STONEEDGE,AQUAJET,SUPERPOWER,SWORDSDANCE
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = OMASTAR,50
+    Moves = HYDROPUMP,ANCIENTPOWER,EARTHPOWER,ICEBEAM
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = RELICANTH,50
+    Moves = ROCKSLIDE,WATERFALL,YAWN,ROCKPOLISH
+    Item = ROCKIUMZ
+    IV = 21
+#-------------------------------
+[LEADER_Misty,Misty]
+Items = SOULBRACELET
+Pokemon = STARMIE,50
+    Moves = PSYCHIC,HYDROPUMP,ICEBEAM,THUNDERBOLT
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = POLITOED,50
+    Moves = PERISHSONG,SURF,BOUNCE,HYPERVOICE
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = LAPRAS,50
+    Moves = ICEBEAM,THUNDER,CONFUSERAY,HYDROPUMP
+    Item = WATERIUMZ
+    IV = 21
+Pokemon = SEAKING,50
+    Moves = MEGAHORN,WATERFALL,POISONJAB,AGILITY
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = GOLDUCK,50
+    Moves = BLIZZARD,FOCUSBLAST,AQUAJET,HONECLAWS
+    Item = WATERGEM
+    IV = 21
+Pokemon = BLASTOISE,50
+    Moves = AVALANCHE,HYDROPUMP,HEADSMASH,IRONTAIL
+    Item = BLASTOISINITE
+    IV = 21
+#-------------------------------
+[LEADER_Surge,Lt.Surge]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = RAICHU,50
+    Moves = THUNDERWAVE,FOCUSBLAST,SIGNALBEAM,THUNDERBOLT
+    Item = ELECTRIUMZ
+    IV = 21
+Pokemon = JOLTEON,50
+    Moves = RAINDANCE,SHADOWBALL,THUNDER,SIGNALBEAM
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = ELECTIVIRE,50
+    Moves = ELECTROBALL,THUNDERPUNCH,DISCHARGE,THUNDERBOLT
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = AMPHAROS,50
+    Moves = CHARGE,MIRRORCOAT,MAGNETRISE,THUNDER
+    Item = AMPHAROSITE
+    IV = 21
+Pokemon = MAGNETON,50
+    Moves = DISCHARGE,FLASHCANNON,BARRIER,SIGNALBEAM
+    Item = AIRBALLOON
+    IV = 21
+Pokemon = LANTURN,50
+    Moves = CHARGE,DISCHARGE,SURF,POWERGEM
+    Item = PETAYABERRY
+    IV = 21
+#-------------------------------
+[LEADER_Erika,Erika]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = VILEPLUME,50
+    Moves = PETALDANCE,SLEEPPOWDER,SUNNYDAY,MOONLIGHT
+    Item = GRASSGEM
+    IV = 21
+Pokemon = BELLOSSOM,50
+    Moves = SUNNYDAY,DRAINPUNCH,LEAFBLADE,MAGICALLEAF
+    Item = FIGHTINGGEM
+    IV = 21
+Pokemon = VICTREEBEL,50
+    Moves = SUCKERPUNCH,LEAFTORNADO,REFLECT,LEAFBLADE
+    Item = GRASSIUMZ
+    IV = 21
+Pokemon = EXEGGUTOR,50
+    Moves = PSYSHOCK,SOLARBEAM,HYPNOSIS,SUNNYDAY
+    Item = TANGABERRY
+    IV = 21
+Pokemon = JUMPLUFF,50
+    Moves = SWORDSDANCE,ROCKSLIDE,POWERWHIP,AERIALACE
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = VENUSAUR,50
+    Moves = SYNTHESIS,LIGHTSCREEN,LEAFSTORM,TOXIC
+    Item = VENUSAURITE
+    IV = 21
+#-------------------------------
+[LEADER_Sabrina,Sabrina]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = ALAKAZAM,50
+    Moves = PSYSHOCK,SHADOWBALL,FOCUSBLAST,CHARGEBEAM
+    Item = ALAKAZITE
+    IV = 21
+Pokemon = HYPNO,50
+    Moves = HYPNOSIS,DREAMEATER,CALMMIND,SHADOWBALL
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = MRMIME,50
+    Moves = PSYCHIC,LIGHTSCREEN,CHARGEBEAM,REFLECT
+    Item = PSYCHIUMZ
+    IV = 21
+Pokemon = SLOWKING,50
+    Moves = PSYSHOCK,ICEBEAM,CALMMIND,SLACKOFF
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = ESPEON,50
+    Moves = PSYSHOCK,SHADOWBALL,REFLECT,YAWN
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = JYNX,50
+    Moves = LOVELYKISS,DREAMEATER,FROSTBREATH,ENERGYBALL
+    Item = SOULCRYSTAL
+    IV = 21
+#-------------------------------
+[LEADER_Koga,Koga]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = ARIADOS,50
+    Moves = POISONJAB,STRUGGLEBUG,ELECTROWEB,SUCKERPUNCH
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = MUK,50
+    Moves = FIREBLAST,SLUDGEBOMB,ACIDARMOR,SLUDGEWAVE
+    Item = FIREGEM
+    IV = 21
+Pokemon = GENGAR,50
+    Moves = TOXIC,LICK,SLUDGEBOMB,TAILWIND
+    Item = GENGARITE
+    IV = 21
+Pokemon = ARBOK,50
+    Moves = GUNKSHOT,SUCKERPUNCH,COIL,DRAGONTAIL
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = VENOMOTH,50
+    Moves = SIGNALBEAM,BUGBUZZ,GIGADRAIN,SLUDGEBOMB
+    Item = POISONIUMZ
+    IV = 21
+Pokemon = DUSTOX,50
+    Moves = TOXICSPIKES,SIGNALBEAM,AERIALACE,BARRIER
+    Item = APICOTBERRY
+    IV = 21
+#-------------------------------
+[LEADER_Blaine,Blaine]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = FLAREON,50
+    Moves = FLAMECHARGE,SUPERPOWER,FLAIL,YAWN
+    Item = SALACBERRY
+    IV = 21
+Pokemon = ARCANINE,50
+    Moves = FLAREBLITZ,WILDCHARGE,CLOSECOMBAT,EXTREMESPEED
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = MAGMORTAR,50
+    Moves = FIREBLAST,PSYCHIC,THUNDERBOLT,FOCUSBLAST
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = NINETALES,50
+    Moves = HEATWAVE,ENERGYBALL,HYPNOSIS,NASTYPLOT
+    Item = FIRIUMZ
+    IV = 21
+Pokemon = RAPIDASH,50
+    Moves = FLAREBLITZ,MEGAHORN,WILDCHARGE,HYPNOSIS
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = CHARIZARD,50
+    Moves = INFERNO,DRAGONRUSH,FOCUSBLAST,HONECLAWS
+    Item = CHARIZARDITEX
+    IV = 21
+#-------------------------------
+[LEADER_Giovanni,Giovanni]
+Items = SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = SANDSLASH,50
+    Moves = SANDSTORM,ROCKSLIDE,EARTHQUAKE,BRICKBREAK
+    Item = SALACBERRY
+    IV = 21
+Pokemon = NIDOKING,50
+    Moves = MEGAHORN,BLIZZARD,EARTHPOWER,SLUDGEWAVE
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = TYRANITAR,50
+    Moves = THRASH,DARKPULSE,EARTHQUAKE,CRUNCH
+    Item = TYRANITARITE
+    IV = 21
+Pokemon = MAROWAK,50
+    Moves = BONEMERANG,STONEEDGE,OUTRAGE,THUNDERPUNCH
+    Item = YACHEBERRY
+    IV = 21
+Pokemon = NIDOQUEEN,50
+    Moves = SUPERPOWER,POISONJAB,EARTHPOWER,THUNDER
+    Item = ROCKIUMZ
+    IV = 21
+Pokemon = RHYDON,50
+    Moves = HAMMERARM,STONEEDGE,MEGAHORN,DRILLRUN
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_Malla,Flora,1]
+Items = SOULBRACELET,FULLRESTORE,SOULBRACELET,SOULBRACELET
+Pokemon = LUDICOLO,50
+    Item = SALACBERRY
+Pokemon = PROPELTREE,50
+    Item = GRASSIUMZ
+Pokemon = VILEPLUME,50
+    Item = RAWSTBERRY
+Pokemon = ELDEGOSS,50
+    Item = SOULBRACELET
+Pokemon = DECIDUEYE,50
+    Item = PETAYABERRY
+Pokemon = VENUSAUR,50
+    Item = VENUSAURITE
+#-------------------------------
+[LEADER_Wave,Wave,1]
+Items = SOULBRACELET,FULLRESTORE,FRESHWATER,SOULBRACELET,SOULBRACELET
+Pokemon = POLIWRATH,50
+    Item = WATERIUMZ
+Pokemon = DRAGALGE,50
+Pokemon = DREDNAW,50
+Pokemon = STARMIE,50
+    Item = SOULCRYSTAL
+Pokemon = GYARADOS,50
+    Item = LUMBERRY
+Pokemon = WAILORD,50
+    Item = WAILORDITE
+#-------------------------------
+[GYMLEADER_Blaze,Blaze,1]
+Items = SUPERPOTION,SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = SOLROCK,50
+    Moves = SOLARBEAM,ROCKBLAST,FLAREBLITZ,SUNNYDAY
+    IV = 21
+Pokemon = SALAZZLE,50
+    Gender = female
+    Moves = FLAMEBURST,VENOSHOCK,ENDEAVOR,WILLOWISP
+    Item = SOULCRYSTAL
+    IV = 21
+Pokemon = FLETCHINDER,50
+    Moves = STEELWING,ACROBATICS,WILLOWISP,FLAMECHARGE
+    Item = FIRIUMZ
+    IV = 21
+Pokemon = ROTOM,50
+    Form = 1
+    Gender = female
+    Moves = THUNDER,OVERHEAT,THUNDERWAVE,HEX
+    Ability = 0
+    Item = FIGYBERRY
+    IV = 21
+Pokemon = EMBOAR,50
+    Item = LUMBERRY
+Pokemon = HOUNDOOM,50
+    Moves = THUNDERFANG,FIREFANG,BITE,WILLOWISP
+    Item = HOUNDOOMINITE
+    IV = 21
+#-------------------------------
+[GYMLEADER_Minero,Minero,1]
+Items = FULLRESTORE,XATTACK6,SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = CRADILY,50
+Pokemon = GOLEM,50
+    Form = 1
+    Gender = female
+    Moves = THUNDERPUNCH,ROCKBLAST,SMACKDOWN,STEALTHROCK
+    Ability = 0
+    Item = ROCKIUMZ
+    IV = 21
+Pokemon = RHYPERIOR,50
+Pokemon = TYRANITAR,50
+    Item = SOULCRYSTAL
+Pokemon = AGGRON,50
+    Item = AGGRONITE
+Pokemon = AERODACTYL,50
+    Item = AERODACTYLITE
+#-------------------------------
+[GYMLEADER_Sky,Airla,1]
+Items = HYPERPOTION,ICEHEAL,AWAKENING,SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = DRIFBLIM,50
+    Moves = PLUCK,PHANTOMFORCE,GUST,PAYBACK
+    Item = SOULBRACELET
+    IV = 21
+Pokemon = CROBAT,50
+    Moves = PLUCK,AIRCUTTER,CONFUSERAY,ABSORB
+    IV = 21
+Pokemon = TROPIUS,50
+    Moves = PLUCK,GUST,LEAFTORNADO,NATURALGIFT
+    Item = FLYINIUMZ
+    IV = 21
+Pokemon = SANDICE,50
+    Moves = PLUCK,BULLDOZE,GUST,ROCKTOMB
+    IV = 21
+Pokemon = HAWLUCHA,50
+    Moves = PLUCK,SUBMISSION,ENCORE,TAUNT
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = SKARMORY,50
+    Moves = PLUCK,STEELWING,SPIKES,NIGHTSLASH
+    Item = EXPCANDYXL
+    IV = 21
+#-------------------------------
+[GYMLEADER_Spectrum,Spectrum,1]
+Items = MAXPOTION,BURNHEAL,SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = ABOMASNOW,50
+    Moves = BLIZZARD,GIGADRAIN,FREEZEDRY,EARTHQUAKE
+    Item = ABOMASITE
+Pokemon = BEARTIC,50
+    Moves = BLIZZARD,SUPERPOWER,FREEZEDRY,HAIL
+Pokemon = WAILORD,50
+    Moves = BLIZZARD,HYDROPUMP,FREEZEDRY,HAIL
+    Item = SOULCRYSTAL
+Pokemon = AWOOTIC,50
+    Moves = BLIZZARD,CRUNCH,FREEZEDRY,HAIL
+Pokemon = DARMANITAN,50
+    Form = 2
+    Moves = ICICLECRASH,FLAREBLITZ,FREEZEDRY,TAUNT
+    Ability = 2
+Pokemon = NINETALES,50
+    Form = 1
+    Moves = BLIZZARD,DAZZLINGGLEAM,FREEZEDRY,AURORAVEIL
+    Item = ICIUMZ
+#-------------------------------
+[BUGCATCHER,Elijah]
+Pokemon = BUTTERFREE,17
+#-------------------------------
+[CAMPER,Ricky]
+Pokemon = SQUIRTLE,17
+#-------------------------------
+[PICNICKER,Nancy]
+Pokemon = PIKACHU,16
+#-------------------------------
+[BUGCATCHER,Keigo]
+Pokemon = PINECO,16
+Pokemon = COMBEE,16
+#-------------------------------
+[GAMEDEV,Spectra]
+Items = MAXREVIVE,HYPERPOTION,FULLRESTORE,SOULBRACELET,SOULBRACELET
+Pokemon = BULBASAUR,64
+    Gender = female
+    Shiny = yes
+    Moves = SOLARBEAM,PETALDANCE,POWERWHIP,SYNTHESIS
+    Item = SITRUSBERRY
+    IV = 20
+Pokemon = OMASTAR,59
+    Item = SITRUSBERRY
+Pokemon = UMBREON,60
+    Gender = female
+    Shiny = yes
+Pokemon = PORYGONZ,61
+Pokemon = SPINAQUA,62
+    Gender = male
+    Moves = POISONOUSSPIN,RAPIDSPIN,GIGAIMPACT,HYDROCANNON
+    Item = SPINAQIUMZ
+Pokemon = FLEURMBER,63
+    Gender = female
+    Shiny = yes
+    Moves = SOLARBEAM,FLAREBLITZ,WEATHERBALL,DAZZLINGGLEAM
+    Item = SOULCRYSTAL
+#-------------------------------
+[POKEMONTRAINER_Red,Red]
+Items = FULLRESTORE,SOULBRACELET,SOULBRACELET,SOULBRACELET
+Pokemon = PIKACHU,66
+    Gender = male
+    Moves = VOLTTACKLE,QUICKATTACK,LIGHTSCREEN,NUZZLE
+    Item = LIGHTBALL
+Pokemon = VENUSAUR,60
+    Moves = EARTHQUAKE,LEECHSEED,LEAFSTORM,SLUDGEBOMB
+Pokemon = CHARIZARD,61
+    Moves = WILLOWISP,FIREBLAST,AIRSLASH,FOCUSBLAST
+    Item = CHARIZARDITEX
+Pokemon = BLASTOISE,62
+    Moves = HYDROPUMP,FLASHCANNON,DARKPULSE,ICEBEAM
+Pokemon = ESPEON,63
+    Moves = MUDSLAP,SWIFT,REFLECT,PSYCHIC
+    Item = SOULCRYSTAL
+Pokemon = SNORLAX,65
+    Moves = REST,SNORE,HIGHHORSEPOWER,GIGAIMPACT
+    Item = SNORLIUMZ
+#-------------------------------
+[POKEMONTRAINER_Hop,Hop]
+Items = FULLRESTORE,DYNAMAXBAND
+Pokemon = DUBWOOL,62
+    Moves = COTTONGUARD,DOUBLEKICK,DOUBLEEDGE,HEADBUTT
+Pokemon = SNORLAX,63
+    Moves = EARTHQUAKE,HAMMERARM,HEAVYSLAM,CRUNCH
+Pokemon = PINCURCHIN,64
+    Moves = ZINGZAP,POISONJAB,LIQUIDATION,RECOVER
+Pokemon = CORVIKNIGHT,65
+    Moves = STEELWING,DRILLPECK,SWAGGER,LIGHTSCREEN
+Pokemon = CINDERACE,66
+    Moves = GUNKSHOT,IRONHEAD,PYROBALL,ZENHEADBUTT
+Pokemon = ZACIAN,64
+    Moves = CRUNCH,BEHEMOTHBLADE,WILDCHARGE,CLOSECOMBAT
+#-------------------------------
+[GAMEDEV,test]
+Pokemon = BULBASAUR,12
+    Moves = UPROAR,ASTONISH,GUST,SWAGGER
+    Item = SOULCRYSTAL
+#-------------------------------
+[RIVAL3,Aurora,3]
+Pokemon = BULBASAUR,19

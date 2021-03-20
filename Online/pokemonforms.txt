@@ -1,0 +1,3768 @@
+﻿#-------------------------------
+[PIKACHU-1]
+FormName=Cosplay Pikachu
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=34
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-2]
+FormName=Pikachu Belle
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-3]
+FormName=Pikachu Rock Star
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-4]
+FormName=Pikachu, Ph. D
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-5]
+FormName=Pikachu Pop Star
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-6]
+FormName=Pikachu Libre
+GenderRate=AlwaysFemale
+Abilities=LIGHTNINGROD
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-7]
+FormName=Original Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-8]
+FormName=Hoenn Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-9]
+FormName=Sinnoh Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-10]
+FormName=Unova Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-11]
+FormName=Kalos Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-12]
+FormName=Alola Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PIKACHU-13]
+FormName=Partner Cap
+GenderRate=AlwaysMale
+Abilities=STATIC
+Pokedex=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[PICHU-1]
+FormName=Spiky-Eared
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[UNOWN-1]
+FormName=Bear
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-2]
+FormName=Chase
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-3]
+FormName=Direct
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-4]
+FormName=Engage
+BattlerEnemyY=29
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-5]
+FormName=Find
+BattlerEnemyY=29
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-6]
+FormName=Give
+BattlerEnemyY=26
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-7]
+FormName=Help
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-8]
+FormName=Increase
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-9]
+FormName=Join
+BattlerEnemyY=29
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-10]
+FormName=Keep
+BattlerEnemyY=29
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-11]
+FormName=Laugh
+BattlerEnemyY=31
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-12]
+FormName=Make
+BattlerEnemyY=31
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-13]
+FormName=Nuzzle
+BattlerEnemyY=32
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-14]
+FormName=Observe
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-15]
+FormName=Perform
+BattlerEnemyY=31
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-16]
+FormName=Quicken
+BattlerEnemyY=33
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-17]
+FormName=Reassure
+BattlerEnemyY=31
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-18]
+FormName=Search
+BattlerEnemyY=24
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-19]
+FormName=Tell
+BattlerEnemyY=30
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-20]
+FormName=Undo
+BattlerEnemyY=30
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-21]
+FormName=Vanish
+BattlerEnemyY=30
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-22]
+FormName=Want
+BattlerEnemyY=31
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-23]
+FormName=XXXXX
+BattlerEnemyY=33
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-24]
+FormName=Yield
+BattlerEnemyY=29
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-25]
+FormName=Zoom
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-26]
+FormName=?????
+BattlerEnemyY=25
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[UNOWN-27]
+FormName=!!!!!
+BattlerEnemyY=5
+BattlerPlayerY=1
+BattlerAltitude=19
+#-------------------------------
+[CASTFORM-1]
+FormName=Sunny Form
+Type1=FIRE
+BattlerEnemyY=26
+BattlerPlayerY=1
+BattlerAltitude=20
+#-------------------------------
+[CASTFORM-2]
+FormName=Rainy Form
+Type1=WATER
+BattlerEnemyY=27
+BattlerPlayerY=1
+BattlerAltitude=20
+#-------------------------------
+[CASTFORM-3]
+FormName=Snowy Form
+Type1=ICE
+BattlerEnemyY=28
+BattlerPlayerY=1
+BattlerAltitude=20
+#-------------------------------
+[KYOGRE-1]
+FormName=Primal Kyogre
+BaseStats=100,150,90,90,180,160
+Abilities=PRIMORDIALSEA
+Height=9.8
+Weight=430.0
+BattlerEnemyY=40
+BattlerPlayerY=26
+BattlerAltitude=0
+#-------------------------------
+[GROUDON-1]
+FormName=Primal Groudon
+Type2=FIRE
+BaseStats=100,180,160,90,150,90
+Abilities=DESOLATELAND
+Height=5.0
+Weight=999.7
+BattlerEnemyY=12
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[DEOXYS-1]
+FormName=Attack Forme
+BaseStats=50,180,20,150,180,20
+EffortPoints=0,2,0,0,1,0
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,TAUNT,33,PURSUIT,41,PSYCHIC,49,SUPERPOWER,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,COSMICPOWER,81,ZAPCANNON,89,PSYCHOBOOST,97,HYPERBEAM
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[DEOXYS-2]
+FormName=Defense Forme
+BaseStats=50,70,160,90,70,160
+EffortPoints=0,0,2,0,0,1
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,KNOCKOFF,33,SPIKES,41,PSYCHIC,49,SNATCH,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,IRONDEFENSE,73,AMNESIA,81,RECOVER,89,PSYCHOBOOST,97,COUNTER,97,MIRRORCOAT
+BattlerEnemyY=4
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[DEOXYS-3]
+FormName=Speed Forme
+BaseStats=50,95,90,180,95,90
+EffortPoints=0,0,0,3,0,0
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,DOUBLETEAM,25,KNOCKOFF,33,PURSUIT,41,PSYCHIC,49,SWIFT,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,AGILITY,81,RECOVER,89,PSYCHOBOOST,97,EXTREMESPEED
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[BURMY-1]
+FormName=Sandy Cloak
+BattlerEnemyY=24
+BattlerPlayerY=10
+BattlerAltitude=15
+#-------------------------------
+[BURMY-2]
+FormName=Trash Cloak
+BattlerEnemyY=24
+BattlerPlayerY=10
+BattlerAltitude=15
+#-------------------------------
+[WORMADAM-1]
+FormName=Sandy Cloak
+Type1=BUG
+Type2=GROUND
+BaseStats=60,79,105,36,59,85
+EffortPoints=0,0,2,0,0,0
+Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=12
+#-------------------------------
+[WORMADAM-2]
+FormName=Trash Cloak
+Type1=BUG
+Type2=STEEL
+BaseStats=60,69,95,36,69,95
+EffortPoints=0,0,1,0,0,1
+Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,MIRRORSHOT,29,METALSOUND,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,IRONHEAD
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=12
+#-------------------------------
+[CHERRIM-1]
+FormName=Sunshine Form
+BattlerEnemyY=22
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[SHELLOS-1]
+FormName=East Sea
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[GASTRODON-1]
+FormName=East Sea
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[ROTOM-1]
+FormName=Heat Rotom
+Type1=ELECTRIC
+Type2=FIRE
+BattlerEnemyY=20
+BattlerPlayerY=16
+BattlerAltitude=13
+#-------------------------------
+[ROTOM-2]
+FormName=Wash Rotom
+Type1=ELECTRIC
+Type2=WATER
+BattlerEnemyY=14
+BattlerAltitude=9
+BattlerPlayerY=16
+#-------------------------------
+[ROTOM-3]
+FormName=Frost Rotom
+Type1=ELECTRIC
+Type2=ICE
+BattlerEnemyY=11
+BattlerAltitude=11
+BattlerPlayerY=16
+#-------------------------------
+[ROTOM-4]
+FormName=Fan Rotom
+Type1=ELECTRIC
+Type2=FLYING
+BattlerEnemyY=17
+BattlerAltitude=9
+BattlerPlayerY=16
+#-------------------------------
+[ROTOM-5]
+FormName=Mow Rotom
+Type1=ELECTRIC
+Type2=GRASS
+BattlerEnemyY=11
+BattlerAltitude=6
+BattlerPlayerY=16
+#-------------------------------
+[GIRATINA-1]
+FormName=Origin Forme
+BaseStats=150,120,100,90,120,100
+Abilities=LEVITATE
+HiddenAbility=TELEPATHY
+Height=6.9
+Weight=650.0
+Shape=2
+BattlerEnemyY=4
+BattlerAltitude=10
+BattlerPlayerY=10
+#-------------------------------
+[SHAYMIN-1]
+FormName=Sky Forme
+Type1=GRASS
+Type2=FLYING
+BaseStats=100,103,75,127,120,75
+EffortPoints=0,0,0,3,0,0
+Abilities=SERENEGRACE
+Moves=1,GROWTH,10,MAGICALLEAF,19,LEECHSEED,28,QUICKATTACK,37,SWEETSCENT,46,NATURALGIFT,55,WORRYSEED,64,AIRSLASH,73,ENERGYBALL,82,SWEETKISS,91,LEAFSTORM,100,SEEDFLARE
+Height=0.4
+Weight=5.2
+BattlerEnemyY=17
+BattlerPlayerY=5
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-1]
+FormName=Fighting Type
+Type1=FIGHTING
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-2]
+FormName=Flying Type
+Type1=FLYING
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-3]
+FormName=Poison Type
+Type1=POISON
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-4]
+FormName=Ground Type
+Type1=GROUND
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-5]
+FormName=Rock Type
+Type1=ROCK
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-6]
+FormName=Bug Type
+Type1=BUG
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-7]
+FormName=Ghost Type
+Type1=GHOST
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-8]
+FormName=Steel Type
+Type1=STEEL
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-9]
+FormName=Unknown Type
+Type1=QMARKS
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-10]
+FormName=Fire Type
+Type1=FIRE
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-11]
+FormName=Water Type
+Type1=WATER
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-12]
+FormName=Grass Type
+Type1=GRASS
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-13]
+FormName=Electric Type
+Type1=ELECTRIC
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-14]
+FormName=Psychic Type
+Type1=PSYCHIC
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-15]
+FormName=Ice Type
+Type1=ICE
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-16]
+FormName=Dragon Type
+Type1=DRAGON
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-17]
+FormName=Dark Type
+Type1=DARK
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ARCEUS-18]
+FormName=Fairy Type
+Type1=FAIRY
+BattlerEnemyY=6
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[BASCULIN-1]
+FormName=Blue-Striped
+Abilities=ROCKHEAD,ADAPTABILITY
+HiddenAbility=MOLDBREAKER
+WildItemUncommon=DEEPSEASCALE
+BattlerEnemyY=11
+BattlerPlayerY=5
+BattlerAltitude=10
+#-------------------------------
+[DARMANITAN-1]
+FormName=Zen Mode
+Type1=FIRE
+Type2=PSYCHIC
+BaseStats=105,30,105,55,140,105
+EffortPoints=0,0,0,0,2,0
+BattlerEnemyY=33
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[DEERLING-1]
+FormName=Summer Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[DEERLING-2]
+FormName=Autumn Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[DEERLING-3]
+FormName=Winter Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SAWSBUCK-1]
+FormName=Summer Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SAWSBUCK-2]
+FormName=Autumn Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SAWSBUCK-3]
+FormName=Winter Form
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[TORNADUS-1]
+FormName=Therian Forme
+BaseStats=79,100,80,121,110,90
+EffortPoints=0,0,0,3,0,0
+Abilities=REGENERATOR
+HiddenAbility=DEFIANT
+Height=1.4
+Shape=9
+BattlerEnemyY=12
+BattlerAltitude=0
+BattlerPlayerY=4
+#-------------------------------
+[THUNDURUS-1]
+FormName=Therian Forme
+BaseStats=79,105,70,101,145,80
+EffortPoints=0,0,0,0,3,0
+Abilities=VOLTABSORB
+HiddenAbility=DEFIANT
+Height=3.0
+Shape=6
+BattlerAltitude=7
+BattlerEnemyY=25
+BattlerPlayerY=20
+#-------------------------------
+[LANDORUS-1]
+FormName=Therian Forme
+BaseStats=89,145,90,71,105,80
+EffortPoints=0,3,0,0,0,0
+Abilities=INTIMIDATE
+HiddenAbility=SHEERFORCE
+Height=1.3
+Shape=8
+BattlerEnemyY=16
+BattlerAltitude=0
+BattlerPlayerY=9
+#-------------------------------
+[KYUREM-1]
+FormName=White Kyurem
+BaseStats=125,120,90,95,170,100
+EffortPoints=0,0,0,0,3,0
+Abilities=TURBOBLAZE
+Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,ICEBURN,57,DRAGONPULSE,64,IMPRISON,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Height=3.6
+BattlerEnemyY=10
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[KYUREM-2]
+FormName=Black Kyurem
+BaseStats=125,170,100,95,120,90
+EffortPoints=0,3,0,0,0,0
+Abilities=TERAVOLT
+Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,IMPRISON,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Height=3.3
+BattlerEnemyY=7
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[KELDEO-1]
+FormName=Resolute Form
+BattlerEnemyY=22
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[MELOETTA-1]
+FormName=Pirouette Forme
+Type1=NORMAL
+Type2=FIGHTING
+BaseStats=100,128,90,128,77,77
+EffortPoints=0,1,1,1,0,0
+BattlerEnemyY=20
+BattlerPlayerY=4
+BattlerAltitude=16
+#-------------------------------
+[GENESECT-1]
+FormName=Shock Drive
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[GENESECT-2]
+FormName=Burn Drive
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[GENESECT-3]
+FormName=Chill Drive
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[GENESECT-4]
+FormName=Douse Drive
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[GRENINJA-1]
+FormName=Ash-Greninja
+BaseStats=72,145,67,132,153,71
+Abilities=BATTLEBOND
+BattlerEnemyY=18
+BattlerPlayerY=22
+BattlerAltitude=0
+#-------------------------------
+[VIVILLON-1]
+FormName=Polar
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-2]
+FormName=Tundra
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-3]
+FormName=Continental
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-4]
+FormName=Garden
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-5]
+FormName=Elegant
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-6]
+FormName=Icy Snow
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-7]
+FormName=Modern
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-8]
+FormName=Marine
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-9]
+FormName=Archipelago
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-10]
+FormName=High Plains
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-11]
+FormName=Sandstorm
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-12]
+FormName=River
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-13]
+FormName=Savanna
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-14]
+FormName=Sun
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-15]
+FormName=Ocean
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-16]
+FormName=Jungle
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-17]
+FormName=Monsoon
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-18]
+FormName=Fancy
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-19]
+FormName=Poké Ball
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=11
+#-------------------------------
+[FLABEBE-1]
+FormName=Yellow Flower
+BattlerEnemyY=16
+BattlerPlayerY=24
+BattlerAltitude=0
+#-------------------------------
+[FLABEBE-2]
+FormName=Blue Flower
+BattlerEnemyY=16
+BattlerPlayerY=24
+BattlerAltitude=0
+#-------------------------------
+[FLABEBE-3]
+FormName=Orange Flower
+BattlerEnemyY=16
+BattlerPlayerY=24
+BattlerAltitude=0
+#-------------------------------
+[FLABEBE-4]
+FormName=White Flower
+BattlerEnemyY=16
+BattlerPlayerY=24
+BattlerAltitude=0
+#-------------------------------
+[FLOETTE-1]
+FormName=Yellow Flower
+BattlerEnemyY=10
+BattlerPlayerY=4
+BattlerAltitude=7
+#-------------------------------
+[FLOETTE-2]
+FormName=Blue Flower
+BattlerEnemyY=10
+BattlerPlayerY=4
+BattlerAltitude=7
+#-------------------------------
+[FLOETTE-3]
+FormName=Orange Flower
+BattlerEnemyY=10
+BattlerPlayerY=4
+BattlerAltitude=7
+#-------------------------------
+[FLOETTE-4]
+FormName=White Flower
+BattlerEnemyY=10
+BattlerPlayerY=4
+BattlerAltitude=7
+#-------------------------------
+[FLOETTE-5]
+FormName=Eternal Flower
+BattlerEnemyY=10
+BattlerPlayerY=4
+BattlerAltitude=7
+#-------------------------------
+[FLORGES-1]
+FormName=Yellow Flower
+BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerAltitude=0
+#-------------------------------
+[FLORGES-2]
+FormName=Blue Flower
+BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerAltitude=0
+#-------------------------------
+[FLORGES-3]
+FormName=Orange Flower
+BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerAltitude=0
+#-------------------------------
+[FLORGES-4]
+FormName=White Flower
+BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-1]
+FormName=Star Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-2]
+FormName=Heart Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-3]
+FormName=Diamond Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-4]
+FormName=Dandy Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-5]
+FormName=Kabuki Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-6]
+FormName=Debutante Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-7]
+FormName=Pharaoh Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-8]
+FormName=Matron Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FURFROU-9]
+FormName=La Reine Trim
+BattlerEnemyY=10
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[AEGISLASH-1]
+FormName=Blade Form
+BaseStats=60,150,50,60,150,50
+BattlerEnemyY=4
+BattlerPlayerY=18
+BattlerAltitude=10
+#-------------------------------
+[PUMPKABOO-1]
+FormName=Small Size
+BaseStats=44,66,70,56,44,55
+Height=0.3
+Weight=3.5
+BattlerEnemyY=30
+BattlerPlayerY=26
+BattlerAltitude=0
+#-------------------------------
+[PUMPKABOO-2]
+FormName=Large Size
+BaseStats=54,66,70,46,44,55
+Height=0.5
+Weight=7.5
+BattlerEnemyY=30
+BattlerPlayerY=26
+BattlerAltitude=0
+#-------------------------------
+[PUMPKABOO-3]
+FormName=Super Size
+BaseStats=59,66,70,41,44,55
+Height=0.8
+Weight=15.0
+BattlerEnemyY=30
+BattlerPlayerY=26
+BattlerAltitude=0
+#-------------------------------
+[GOURGEIST-1]
+FormName=Small Size
+BaseStats=55,85,122,99,58,75
+Height=0.7
+Weight=9.5
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[GOURGEIST-2]
+FormName=Large Size
+BaseStats=75,95,122,69,58,75
+Height=1.1
+Weight=14.0
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[GOURGEIST-3]
+FormName=Super Size
+BaseStats=85,100,122,54,58,75
+Height=1.7
+Weight=39.0
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[XERNEAS-1]
+FormName=Active Mode
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ZYGARDE-1]
+FormName=Core
+BaseStats=20,90,71,100,50,70
+Height=0.2
+Weight=1
+Shape=8
+Pokedex=A Zygarde's core cannot fight on it's own as it is incredibly weak.
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[ZYGARDE-2]
+FormName=10% Forme
+BaseStats=54,100,71,115,61,85
+Height=1.2
+Weight=33.5
+Shape=8
+Pokedex=This is Zygarde when about 10% of its pieces have been assembled. It leaps at its opponent's chest and sinks its sharp fangs into them.
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[ZYGARDE-3]
+FormName=Complete Forme
+BaseStats=216,100,121,85,91,95
+Abilities=POWERCONSTRUCT
+Height=4.5
+Weight=610.0
+Pokedex=Born when all of Zygarde's cells have been gathered together, it uses force to neutralize those who harm the ecosystem.
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[HOOPA-1]
+FormName=Hoopa Unbound
+Type2=DARK
+BaseStats=80,160,60,80,170,130
+Moves=1,HYPERSPACEFURY,1,TRICK,1,DESTINYBOND,1,ALLYSWITCH,1,CONFUSION,6,ASTONISH,10,MAGICCOAT,15,LIGHTSCREEN,19,PSYBEAM,25,SKILLSWAP,29,POWERSPLIT,29,GUARDSPLIT,46,KNOCKOFF,50,WONDERROOM,50,TRICKROOM,55,DARKPULSE,75,PSYCHIC,85,HYPERSPACEFURY
+Height=6.5
+Weight=490.0
+Shape=6
+Kind=Djinn
+BattlerEnemyY=26
+BattlerPlayerY=14
+BattlerAltitude=1
+#-------------------------------
+[ORICORIO-1]
+FormName=Pom-Pom Style
+Type1=ELECTRIC
+Type2=FLYING
+Pokedex=It lifts its opponents' spirits with its cheerful dance moves. When they let their guard down, it electrocutes them with a jolt.
+BattlerEnemyY=12
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ORICORIO-2]
+FormName=Pa'u Style
+Type1=PSYCHIC
+Type2=FLYING
+Pokedex=It relaxes its opponents with its elegant dancing. When they let their guard down, it showers them with psychic energy.
+BattlerEnemyY=12
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ORICORIO-3]
+FormName=Sensu Style
+Type1=GHOST
+Type2=FLYING
+Pokedex=It charms its opponents with its refined dancing. When they let their guard down, it places a curse on them that will bring on their demise.
+BattlerEnemyY=12
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[LYCANROC-1]
+FormName=Midnight Form
+BaseStats=85,115,75,82,55,75
+Abilities=KEENEYE,VITALSPIRIT
+HiddenAbility=NOGUARD
+Moves=1,COUNTER,1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,26,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+Height=1.1
+Shape=6
+Pokedex=It has no problem ignoring orders it doesn't like. It doesn't seem to mind getting hurt at all—as long as it can finish off its opponent.
+BattlerEnemyY=18
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[LYCANROC-2]
+FormName=Dusk Form
+BaseStats=75,117,65,110,55,65
+Abilities=TOUGHCLAWS
+Moves=1,THRASH,1,THRASH,1,COUNTER,1,ACCELEROCK,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,26,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+Pokedex=Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.
+BattlerEnemyY=18
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[WISHIWASHI-1]
+FormName=School Form
+BaseStats=45,140,130,30,140,135
+Height=8.2
+Weight=78.6
+Shape=11
+Pokedex=Wishiwashi assemble in this formation to face off against strong foes. It boasts a strength that earned it the name “demon of the sea.”
+BattlerEnemyY=46
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-1]
+FormName=Fighting Type
+Type1=FIGHTING
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-2]
+FormName=Flying Type
+Type1=FLYING
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-3]
+FormName=Poison Type
+Type1=POISON
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-4]
+FormName=Ground Type
+Type1=GROUND
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-5]
+FormName=Rock Type
+Type1=ROCK
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-6]
+FormName=Bug Type
+Type1=BUG
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-7]
+FormName=Ghost Type
+Type1=GHOST
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-8]
+FormName=Steel Type
+Type1=STEEL
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-9]
+FormName=Fire Type
+Type1=FIRE
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-10]
+FormName=Water Type
+Type1=WATER
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-11]
+FormName=Grass Type
+Type1=GRASS
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-12]
+FormName=Electric Type
+Type1=ELECTRIC
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-13]
+FormName=Psychic Type
+Type1=PSYCHIC
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-14]
+FormName=Ice Type
+Type1=ICE
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-15]
+FormName=Dragon Type
+Type1=DRAGON
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-16]
+FormName=Dark Type
+Type1=DARK
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SILVALLY-17]
+FormName=Fairy Type
+Type1=FAIRY
+Pokedex=Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[MINIOR-8]
+FormName=Red Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-9]
+FormName=Orange Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-10]
+FormName=Yellow Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-11]
+FormName=Green Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-12]
+FormName=Blue Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-13]
+FormName=Indigo Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MINIOR-14]
+FormName=Violet Core
+BaseStats=60,100,60,120,100,60
+EffortPoints=0,1,0,0,1,0
+Weight=0.3
+Pokedex=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[MIMIKYU-1]
+FormName=Busted Form
+Pokedex=It stands in front of a mirror, trying to fix its broken neck as if its life depended on it. It has a hard time getting it right, so it's crying inside.
+BattlerEnemyY=30
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[SOLGALEO-1]
+FormName=Radiant Sun Phase
+Pokedex=It radiates with burning sunlight power, any hit from this form would completely oblitterate the target.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[LUNALA-1]
+FormName=Full Moon Phase
+Pokedex=It radiates with ghastly moonlight power, any hit from this form would completely oblitterate the target.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[NECROZMA-1]
+FormName=Dusk Mane Necrozma
+Type2=STEEL
+BaseStats=97,157,127,77,113,109
+EffortPoints=0,3,0,0,0,0
+Height=3.8
+Weight=460.0
+Shape=8
+Pokedex=This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[NECROZMA-2]
+FormName=Dawn Wings Necrozma
+Type2=GHOST
+BaseStats=97,113,109,77,157,127
+EffortPoints=0,0,0,0,3,0
+Height=4.2
+Weight=350.0
+Shape=9
+Pokedex=This is its form while it's devouring the light of Lunala. It grasps foes in its giant claws and rips them apart with brute force.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[NECROZMA-3]
+FormName=Ultra Necrozma
+Type2=DRAGON
+BaseStats=97,167,97,129,167,97
+EffortPoints=0,1,0,1,1,0
+Abilities=NEUROFORCE
+Height=7.5
+Weight=230.0
+Pokedex=This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[MAGEARNA-1]
+FormName=Original Color
+Pokedex=This is its form from almost 500 years ago. Its body is nothing more than a container—its artificial heart is the actual life-form.
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ICESCREAM-1]
+FormName=Mint
+Type1=ICE
+Type2=WIND
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ICESCREAM-2]
+FormName=Chocolate
+Type1=ICE
+Type2=GROUND
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[ICESCREAM-3]
+FormName=Strawberry
+Type1=ICE
+Type2=FAIRY
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[TOXEL-1]
+BattlerEnemyY=27
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[TOXTRICITY-1]
+FormName=Amped Form
+Abilities=PUNKROCK,MINUS
+HiddenAbility=TECHNICIAN
+Moves=0,SPARK,1,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
+Pokedex=Capable of generating 15.000 volts of electricity, this Pokémon looks down on all that would challenge it.
+BattlerEnemyY=11
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[CRAMORANT-1]
+FormName=Gulping Form
+Pokedex=Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[CRAMORANT-2]
+FormName=Gorging Form
+Pokedex=This Cramorant has accidentally gotten a Pikachu lodge in its gullet. Cramorant is choking a little, but it isn't really bothered.
+BattlerEnemyY=16
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-1]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-2]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-3]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-4]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-5]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-6]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-7]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-8]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-9]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-10]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-11]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-12]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-13]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-14]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-15]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-16]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-17]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-18]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-19]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-20]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-21]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-22]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-23]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-24]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-25]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-26]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-27]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-28]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-29]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-30]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-31]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-32]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-33]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-34]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-35]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-36]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-37]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-38]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-39]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-40]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-41]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-42]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-43]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-44]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-45]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-46]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-47]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-48]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-49]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-50]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-51]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-52]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-53]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-54]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-55]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-56]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-57]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-58]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-59]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-60]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-61]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MILCERY-62]
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-1]
+FormName=Strawberry Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-2]
+FormName=Strawberry Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-3]
+FormName=Strawberry Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-4]
+FormName=Strawberry Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-5]
+FormName=Strawberry Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-6]
+FormName=Strawberry Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-7]
+FormName=Strawberry Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-8]
+FormName=Strawberry Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-9]
+FormName=Berry Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-10]
+FormName=Berry Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-11]
+FormName=Berry Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-12]
+FormName=Berry Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-13]
+FormName=Berry Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-14]
+FormName=Berry Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-15]
+FormName=Berry Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-16]
+FormName=Berry Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-17]
+FormName=Berry Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-18]
+FormName=Love Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-19]
+FormName=Love Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-20]
+FormName=Love Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-21]
+FormName=Love Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-22]
+FormName=Love Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-23]
+FormName=Love Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-24]
+FormName=Love Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-25]
+FormName=Love Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-26]
+FormName=Love Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-27]
+FormName=Star Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-28]
+FormName=Star Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-29]
+FormName=Star Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-30]
+FormName=Star Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-31]
+FormName=Star Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-32]
+FormName=Star Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-33]
+FormName=Star Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-34]
+FormName=Star Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-35]
+FormName=Star Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-36]
+FormName=Clover Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-37]
+FormName=Clover Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-38]
+FormName=Clover Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-39]
+FormName=Clover Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-40]
+FormName=Clover Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-41]
+FormName=Clover Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-42]
+FormName=Clover Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-43]
+FormName=Clover Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-44]
+FormName=Clover Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-45]
+FormName=Flower Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-46]
+FormName=Flower Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-47]
+FormName=Flower Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-48]
+FormName=Flower Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-49]
+FormName=Flower Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-50]
+FormName=Flower Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-51]
+FormName=Flower Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-52]
+FormName=Flower Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-53]
+FormName=Flower Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-54]
+FormName=Ribbon Vanilla Cream
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-55]
+FormName=Ribbon Ruby Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-56]
+FormName=Ribbon Matcha Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-57]
+FormName=Ribbon Mint Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-58]
+FormName=Ribbon Lemon Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-59]
+FormName=Ribbon Salted Cream
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-60]
+FormName=Ribbon Ruby Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-61]
+FormName=Ribbon Caramel Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-62]
+FormName=Ribbon Rainbown Swirl
+Pokedex=The moment it evolved, it took a mixed flavor. This is because of the way its cells spntaneously shifted during Evolution.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ALCREMIE-63]
+FormName=Gigantamax Alcremie
+Pokedex=Cream pours endlessly from this Pokemon's body. The cream stiffens when compressed by an impact. A harder impact results in harder cream.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[EISCUE-1]
+FormName=Noice Face
+BaseStats=75,80,70,130,65,90
+Pokedex=The ice covering this Pokémon face has shattered, revealing a slightly worried expression that many people are enamored with.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[INDEEDEE-1]
+FormName=Female
+BaseStats=70,55,65,85,95,105
+Abilities=OWNTEMPO,SYNCHRONIZE
+HiddenAbility=PSYCHICSURGE
+Moves=1,STOREDPOWER,1,PLAYNICE,5,BATONPASS,10,DISARMINGVOICE,15,PSYBEAM,20,HELPINGHAND,25,FOLLOWME,30,AROMATHERAPY,35,PSYCHIC,40,CALMMIND,45,GUARDSPLIT,50,PSYCHICTERRAIN,55,HEALINGWISH
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[MORPEKO-1]
+FormName=Hangry Form
+Pokedex=Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ZACIAN-1]
+FormName=Crowned Sword
+Type1=FAIRY
+Type2=STEEL
+BaseStats=92,170,115,148,80,115
+Weight=335.0
+Pokedex=Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.
+BattlerEnemyY=5
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ZAMAZENTA-1]
+FormName=Crowned Shield
+Type1=FIGHTING
+Type2=STEEL
+BaseStats=92,130,145,128,80,145
+Weight=785.0
+Pokedex=Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all
+BattlerEnemyY=8
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[ETERNATUS-1]
+FormName=Eternamax Eternatus
+BaseStats=255,115,250,130,125,250
+Height=100.0
+Pokedex=As a result of Rose's meddling, Eternatus absorbed all the energy in the Galar region. It's now in a state of power overload.
+Moves=1,MAXSTRIKE,1,MAXOOZE,1,MAXWYRMWIND,1,MAXGUARD
+BattlerEnemyY=6
+BattlerPlayerY=33
+BattlerAltitude=0
+#--------------------------------
+[LEAFEON-1]
+FormName=Alpha Leafeon
+Type1=GRASS
+Type2=WATER
+BaseStats=65,110,130,60,65,95
+Pokedex=This Special Leafeon seemingly receives it's power from Kyogre.
+BattlerEnemyY=6
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[LEAFEON-2]
+FormName=Alpha Evolved Leafeon
+Type1=GRASS
+Type2=WATER
+BaseStats=70,130,140,70,75,110
+Pokedex=At a state of Power Overload, it will seemingly do all it can to protect it's trainer & Kyogre.
+MegaMove=ORIGINPULSE
+MegaMessage=1
+BattlerEnemyY=6
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[CIRCUITRICITY-1]
+FormName=Amped Circuitricity
+BaseStats=40,55,35,120,55,40
+BattlerEnemyY=6
+BattlerPlayerY=0
+BattlerAltitude=0
+#------------------------------
+[URSHIFU-1]
+FormName=Single Strike Style
+Type1=FIGHTING
+Type2=DARK
+#-------------------------------
+[LIQUA-1]
+FormName=Sonic
+Type1=SONIC
+Type2=WIND
+Pokedex=Wait, What? How did he get here?
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#------------------------------
+[LIQUA-2]
+FormName=Super Sonic
+Type1=SONIC
+Type2=FAIRY
+Pokedex=No stop pls this is pokemon spectra you piece of shit.
+MegaStone=CHAOSEMERALDS
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[DRACOCICLE-1]
+FormName=Broken Icicle
+Pokedex=It may look like it's in pain, but really, it's channeling it's energy, attempting to grow it's icicle back.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[CALYREX,1]
+FormName = Ice Rider
+Type1 = PSYCHIC
+Type2 = ICE
+BaseStats = 100,165,150,50,85,130
+EffortPoints = 0,3,0,0,0,0
+Abilities = ASONEICE
+Moves = 1,TACKLE,1,TAILWHIP,1,DOUBLEKICK,1,AVALANCHE,1,STOMP,1,TORMENT,1,MIST,1,ICICLECRASH,1,TAKEDOWN,1,IRONDEFENSE,1,THRASH,1,TAUNT,1,DOUBLEEDGE,1,SWORDSDANCE,1,POUND,1,MEGADRAIN,1,CONFUSION,1,GROWTH,8,LIFEDEW,16,GIGADRAIN,24,PSYSHOCK,32,HELPINGHAND,40,AROMATHERAPY,48,ENERGYBALL,56,PSYCHIC,64,LEECHSEED,72,HEALPULSE,80,SOLARBEAM,88,FUTURESIGHT
+Kind = High King
+Pokedex = It's said that this Pokémon once moved a large forest—and all the Pokémon living there—to a new location overnight.
+BattlerEnemyY = 25
+#-------------------------------
+[CALYREX,2]
+FormName = Shadow Rider
+Type1 = PSYCHIC
+Type2 = GHOST
+BaseStats = 100,85,80,150,165,100
+EffortPoints = 0,0,0,0,3,0
+Abilities = ASONEGHOST
+Moves = 1,TACKLE,1,TAILWHIP,1,DOUBLEKICK,1,HEX,1,STOMP,1,CONFUSERAY,1,HAZE,1,SHADOWBALL,1,TAKEDOWN,1,AGILITY,1,THRASH,1,DISABLE,1,DOUBLEEDGE,1,NASTYPLOT,1,POUND,1,MEGADRAIN,1,CONFUSION,1,GROWTH,8,LIFEDEW,16,GIGADRAIN,24,PSYSHOCK,32,HELPINGHAND,40,AROMATHERAPY,48,ENERGYBALL,56,PSYCHIC,64,LEECHSEED,72,HEALPULSE,80,SOLARBEAM,88,FUTURESIGHT
+Kind = High King
+Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+BattlerEnemyY = 25
+#-------------------------------
+# Mega Evolution
+#-------------------------------
+[BANETTE-1]
+FormName=Mega Banette
+BaseStats=64,165,75,75,93,83
+Abilities=PRANKSTER
+Height=1.2
+Weight=13.0
+Pokedex=Extraordinary energy amplifies its cursing power to such an extent that it can’t help but curse its own Trainer.
+MegaStone=BANETTITE
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[VENUSAUR-2]
+FormName=Mega Venusaur
+BaseStats=80,100,123,80,122,120
+Abilities=THICKFAT
+Pokedex=It's plants have doubled in nutrients, and so, just being near this Pokemon makes you feel better
+Height=2.4
+Weight=155.5
+MegaStone=VENUSAURITE
+BattlerEnemyY=14
+BattlerPlayerY=13
+BattlerAltitude=0
+#-------------------------------
+[CHARIZARD-1]
+FormName=Mega Charizard X
+Type2=DRAGON
+BaseStats=78,130,111,100,130,85
+Abilities=TOUGHCLAWS
+Weight=110.5
+MegaStone=CHARIZARDITEX
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[CHARIZARD-2]
+FormName=Mega Charizard Y
+BaseStats=78,130,111,100,130,85
+Abilities=DROUGHT
+Weight=100.5
+MegaStone=CHARIZARDITEY
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[BLASTOISE-1]
+FormName=Mega Blastoise
+BaseStats=79,103,120,78,135,115
+Abilities=MEGALAUNCHER
+Weight=101.1
+MegaStone=BLASTOISINITE
+BattlerEnemyY=6
+BattlerPlayerY=3
+BattlerAltitude=0
+#-------------------------------
+[ALAKAZAM-1]
+FormName=Mega Alakazam
+BaseStats=55,50,65,150,175,95
+Abilities=TRACE
+Height=1.2
+Pokedex=It sends out psychic power from the red organ on its forehead to foresee its opponents’ every move.
+MegaStone=ALAKAZITE
+BattlerEnemyY=17
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[GENGAR-1]
+FormName=Mega Gengar
+BaseStats=60,65,80,130,170,95
+Abilities=SHADOWTAG
+Height=1.4
+Pokedex=It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!
+MegaStone=GENGARITE
+BattlerEnemyY=11
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[KANGASKHAN-1]
+FormName=Mega Kangaskhan
+BaseStats=105,125,100,100,60,100
+Abilities=PARENTALBOND
+Weight=100.0
+Pokedex=The explosive energy the child is bathed in causes temporary growth. The mother is beside herself with worry about it.
+MegaStone=KANGASKHANITE
+BattlerEnemyY=13
+BattlerPlayerY=4
+BattlerAltitude=0
+#-------------------------------
+[PINSIR-1]
+FormName=Mega Pinsir
+BaseStats=65,155,120,105,65,90
+Abilities=AERILATE
+Height=1.7
+Weight=59.0
+Pokedex=After Mega Evolution, it becomes able to fly. Perhaps because it’s so happy, it rarely touches the ground.
+MegaStone=PINSIRITE
+BattlerEnemyY=9
+BattlerPlayerY=5
+BattlerAltitude=0
+#-------------------------------
+[GYARADOS-1]
+FormName=Mega Gyarados
+Type2=DARK
+BaseStats=95,155,109,81,70,130
+Abilities=MOLDBREAKER
+Weight=305.0
+Pokedex=Mega Evolution places a burden on its body. The stress causes it to become all the more ferocious.
+MegaStone=GYARADOSITE
+BattlerEnemyY=20
+BattlerPlayerY=16
+BattlerAltitude=0
+#-------------------------------
+[AERODACTYL-1]
+FormName=Mega Aerodactyl
+BaseStats=80,135,85,150,70,95
+Abilities=TOUGHCLAWS
+Height=2.1
+Weight=79.0
+Pokedex=It will attack anything that moves. Mega Evolution is a burden on its body, so it’s incredibly irritated.
+MegaStone=AERODACTYLITE
+BattlerEnemyY=29
+BattlerPlayerY=22
+BattlerAltitude=29
+#-------------------------------
+[MEWTWO-1]
+FormName=Mega Mewtwo X
+Type2=FIGHTING
+BaseStats=106,190,100,130,154,100
+Abilities=STEADFAST
+Height=2.3
+Weight=127.0
+MegaStone=MEWTWONITEX
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
+#-------------------------------
+[MEWTWO-2]
+FormName=Mega Mewtwo Y
+BaseStats=106,150,70,140,194,120
+Abilities=INSOMNIA
+Height=1.5
+Weight=33.0
+MegaStone=MEWTWONITEY
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
+#-------------------------------
+[AMPHAROS-1]
+FormName=Mega Ampharos
+Type2=DRAGON
+BaseStats=90,95,105,45,165,110
+Abilities=MOLDBREAKER
+Pokedex=Excess energy from Mega Evolution stimulates its genes, and the wool it had lost grows in again.
+MegaStone=AMPHAROSITE
+BattlerEnemyY=5
+BattlerPlayerY=2
+BattlerAltitude=0
+#-------------------------------
+[SCIZOR-1]
+FormName=Mega Scizor
+BaseStats=70,150,140,75,65,100
+Abilities=TECHNICIAN
+Height=2.0
+Weight=125.0
+Pokedex=It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.
+MegaStone=SCIZORITE
+BattlerEnemyY=5
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[HERACROSS-1]
+FormName=Mega Heracross
+BaseStats=80,185,115,75,40,105
+Abilities=SKILLLINK
+Height=1.7
+Weight=62.5
+Pokedex=It can grip things with its two horns and lift 500 times its own body weight.
+MegaStone=HERACRONITE
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[HOUNDOOM-1]
+FormName=Mega Houndoom
+BaseStats=75,90,90,115,140,90
+Abilities=SOLARPOWER
+Height=1.9
+Weight=49.5
+Pokedex=Its red claws and the tips of its tail are melting from high internal temperatures that are painful to Houndoom itself.
+MegaStone=HOUNDOOMINITE
+BattlerEnemyY=7
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[TYRANITAR-1]
+FormName=Mega Tyranitar
+BaseStats=100,164,150,71,95,120
+Abilities=SANDSTREAM
+Height=2.5
+Weight=255.0
+Pokedex=Due to the colossal power poured into it, this Pokémon’s back split right open. Its destructive instincts are the only thing keeping it moving.
+MegaStone=TYRANITARITE
+BattlerEnemyY=10
+BattlerPlayerY=5
+BattlerAltitude=0
+#-------------------------------
+[BLAZIKEN-1]
+FormName=Mega Blaziken
+BaseStats=80,160,80,100,130,80
+Abilities=SPEEDBOOST
+MegaStone=BLAZIKENITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[GARDEVOIR-1]
+FormName=Mega Gardevoir
+BaseStats=68,85,65,100,165,135
+Abilities=PIXILATE
+MegaStone=GARDEVOIRITE
+BattlerEnemyY=7
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[WAILORD-1]
+FormName=Mega Wailord
+Type2=WIND
+BaseStats=200,130,70,96,110,50
+Abilities=THICKFAT
+Weight=202.2
+MegaStone=WAILORDITE
+BattlerEnemyY=18
+BattlerPlayerY=26
+BattlerAltitude=0
+#-------------------------------
+[MAWILE-1]
+FormName=Mega Mawile
+BaseStats=50,105,125,50,55,95
+Abilities=HUGEPOWER
+Height=1.0
+Weight=23.5
+Pokedex=It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.
+MegaStone=MAWILITE
+BattlerEnemyY=19
+BattlerPlayerY=18
+BattlerAltitude=0
+#-------------------------------
+[AGGRON-1]
+FormName=Mega Aggron
+Type2=STEEL
+BaseStats=70,140,230,50,60,80
+Abilities=FILTER
+Height=2.2
+Weight=395.0
+MegaStone=AGGRONITE
+BattlerEnemyY=5
+BattlerPlayerY=4
+BattlerAltitude=0
+#-------------------------------
+[MEDICHAM-1]
+FormName=Mega Medicham
+BaseStats=60,100,85,100,80,85
+Abilities=PUREPOWER
+MegaStone=MEDICHAMITE
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[MANECTRIC-1]
+FormName=Mega Manectric
+BaseStats=70,75,80,135,135,80
+Abilities=INTIMIDATE
+Height=1.8
+Weight=44.0
+Pokedex=Mega Evolution fills its body with a tremendous amount of electricity, but it’s too much for Manectric to fully control.
+MegaStone=MANECTITE
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ABSOL-1]
+FormName=Mega Absol
+BaseStats=65,150,60,115,115,60
+Abilities=MAGICBOUNCE
+Weight=49.0
+Pokedex=Normally, it dislikes fighting, so it really hates changing to this form for battles.
+MegaStone=ABSOLITE
+BattlerEnemyY=5
+BattlerPlayerY=5
+BattlerAltitude=0
+#-------------------------------
+[GARCHOMP-1]
+FormName=Mega Garchomp
+BaseStats=108,170,115,92,120,95
+Abilities=SANDFORCE
+Pokedex=Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.
+MegaStone=GARCHOMPITE
+BattlerEnemyY=5
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[LUCARIO-1]
+FormName=Mega Lucario
+BaseStats=70,145,88,112,140,70
+Abilities=ADAPTABILITY
+Height=1.3
+Weight=57.5
+Pokedex=Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.
+MegaStone=LUCARIONITE
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ABOMASNOW-1]
+FormName=Mega Abomasnow
+BaseStats=90,132,105,30,132,105
+Abilities=SNOWWARNING
+Height=2.7
+Weight=185.0
+MegaStone=ABOMASITE
+BattlerEnemyY=13
+BattlerPlayerY=10
+BattlerAltitude=0
+#-------------------------------
+[BEEDRILL-1]
+FormName=Mega Beedrill
+BaseStats=65,150,40,145,15,80
+Abilities=ADAPTABILITY
+Height=1.4
+Weight=40.5
+MegaStone=BEEDRILLITE
+BattlerEnemyY=11
+BattlerPlayerY=8
+BattlerAltitude=15
+#-------------------------------
+[PIDGEOT-1]
+FormName=Mega Pidgeot
+BaseStats=83,80,80,121,135,80
+Abilities=NOGUARD
+Height=2.2
+Weight=50.5
+MegaStone=PIDGEOTITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[SLOWBRO-1]
+FormName=Mega Slowbro
+BaseStats=95,75,180,30,130,80
+Abilities=SHELLARMOR
+Height=2.0
+Weight=120.0
+Pokedex=Tremendous energy strengthened the power of the Shellder on its tail, but it doesn’t really affect Slowpoke.
+MegaStone=SLOWBRONITE
+BattlerEnemyY=6
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[STEELIX-1]
+FormName=Mega Steelix
+BaseStats=75,125,230,30,55,95
+Abilities=SANDFORCE
+Height=10.5
+Weight=740.0
+MegaStone=STEELIXITE
+BattlerEnemyY=16
+BattlerPlayerY=16
+BattlerAltitude=0
+#-------------------------------
+[SCEPTILE-1]
+FormName=Mega Sceptile
+Type2=DRAGON
+BaseStats=70,110,75,145,145,85
+Abilities=LIGHTNINGROD
+Height=1.9
+Weight=55.2
+MegaStone=SCEPTILITE
+BattlerEnemyY=4
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[SWAMPERT-1]
+FormName=Mega Swampert
+BaseStats=100,150,110,70,95,110
+Abilities=SWIFTSWIM
+Height=1.9
+Weight=102.0
+MegaStone=SWAMPERTITE
+BattlerEnemyY=14
+BattlerPlayerY=10
+BattlerAltitude=0
+#-------------------------------
+[SABLEYE-1]
+FormName=Mega Sableye
+BaseStats=50,85,125,20,85,115
+Abilities=MAGICBOUNCE
+Weight=161.0
+Pokedex=Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out.
+MegaStone=SABLENITE
+BattlerEnemyY=5
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[SHARPEDO-1]
+FormName=Mega Sharpedo
+BaseStats=70,140,70,105,110,65
+Abilities=STRONGJAW
+Height=2.5
+Weight=130.3
+Pokedex=The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.
+MegaStone=SHARPEDONITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=8
+#-------------------------------
+[CAMERUPT-1]
+FormName=Mega Camerupt
+BaseStats=70,120,100,20,145,105
+Abilities=SHEERFORCE
+Height=2.5
+Weight=320.5
+MegaStone=CAMERUPTITE
+BattlerEnemyY=14
+BattlerPlayerY=11
+BattlerAltitude=0
+#-------------------------------
+[ALTARIA-1]
+FormName=Mega Altaria
+Type2=FAIRY
+BaseStats=75,110,110,80,110,105
+Abilities=PIXILATE
+Height=1.5
+MegaStone=ALTARIANITE
+BattlerEnemyY=5
+BattlerPlayerY=2
+BattlerAltitude=28
+#-------------------------------
+[GLALIE-1]
+FormName=Mega Glalie
+BaseStats=80,120,80,100,120,80
+Abilities=REFRIGERATE
+Height=2.1
+Weight=350.2
+Pokedex=When it spews stupendously cold air from its broken mouth, the entire area around it gets whited out.
+MegaStone=GLALITITE
+BattlerEnemyY=10
+BattlerPlayerY=8
+BattlerAltitude=20
+#-------------------------------
+[SALAMENCE-1]
+FormName=Mega Salamence 
+BaseStats=95,145,130,120,120,90
+Abilities=AERILATE
+Height=1.8
+Weight=112.6
+Pokedex=The stress of its two proud wings becoming misshapen and stuck together because of strong energy makes it go on a rampage.
+MegaStone=SALAMENCITE
+BattlerEnemyY=11
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[METAGROSS-1]
+FormName=Mega Metagross  
+BaseStats=80,145,150,110,105,110
+Abilities=TOUGHCLAWS
+Height=2.5
+Weight=942.9
+Pokedex=Its intellect surpasses its previous level, resulting in battles so cruel, they’ll make you want to cover your eyes.
+MegaStone=METAGROSSITE
+BattlerEnemyY=17
+BattlerPlayerY=14
+BattlerAltitude=0
+#-------------------------------
+[LATIAS-1]
+FormName=Mega Latias  
+BaseStats=80,100,120,110,140,150
+Height=1.8
+Weight=52.0
+MegaStone=LATIASITE
+BattlerEnemyY=19
+BattlerPlayerY=14
+BattlerAltitude=11
+#-------------------------------
+[LATIOS-1]
+FormName=Mega Latios  
+BaseStats=80,130,100,110,160,120
+Height=2.3
+Weight=70.0
+MegaStone=LATIOSITE
+BattlerEnemyY=12
+BattlerPlayerY=7
+BattlerAltitude=10
+#-------------------------------
+[RAYQUAZA-1]
+FormName=Mega Rayquaza   
+BaseStats=105,180,100,115,180,100
+Abilities=DELTASTREAM
+Height=10.8
+Weight=392.0
+MegaMove=DRAGONASCENT
+MegaMessage=1
+BattlerEnemyY=15
+BattlerPlayerY=7
+BattlerAltitude=5
+#-------------------------------
+[LOPUNNY-1]
+FormName=Mega Lopunny   
+Type2=FIGHTING
+BaseStats=65,136,94,135,54,96
+Abilities=SCRAPPY
+Height=1.3
+Weight=28.3
+Pokedex=It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition.
+MegaStone=LOPUNNITE
+BattlerEnemyY=9
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[GALLADE-1]
+FormName=Mega Gallade   
+BaseStats=68,165,95,110,65,115
+Abilities=INNERFOCUS
+Weight=56.4
+MegaStone=GALLADITE
+BattlerEnemyY=5
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[AUDINO-1]
+FormName=Mega Audino
+Type2=FAIRY
+BaseStats=103,60,126,50,80,126
+Abilities=HEALER
+Height=1.5
+Weight=32.0
+MegaStone=AUDINITE
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[DIANCIE-1]
+FormName=Mega Diancie
+BaseStats=50,160,110,110,160,110
+Abilities=MAGICBOUNCE
+Height=1.1
+Weight=27.8
+MegaStone=DIANCITE
+BattlerEnemyY=6
+BattlerPlayerY=14
+BattlerAltitude=10
+#-------------------------------
+[FLEURMBER-1]
+FormName=Mega Fleurmber
+BaseStats=120,90,80,120,100,90
+Abilities=PSYBLAZINGCHERRY
+Weight=8
+MegaStone=FLEURINITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[SPINAQUA-1]
+FormName=Mega Spinaqua
+BaseStats=100,140,120,80,75,110
+Abilities=POISONTHORNS
+Weight=24.9
+MegaStone=SPINAQUANITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[CHOMPLANT-1]
+FormName=Mega Chomplant
+BaseStats=97,150,90,110,90,82
+Abilities=BIGBITES
+Weight=20.4
+MegaStone=CHOMPLANTITE
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[SKARMORY-1]
+FormName=Mega Skarmory
+BaseStats=90,100,190,100,80,100
+Abilities=BIGPECKS
+Height=3
+Weight=232
+MegaStone=SKARMORITE
+BattlerEnemyY=4
+BattlerPlayerY=9
+BattlerAltitude=0
+#-------------------------------
+[DURANT-1]
+FormName=Mega Durant
+BaseStats=80,130,130,130,90,100
+Abilities=LEVITATE
+Height=0.3
+Weight=50
+MegaStone=DURANTITE
+Pokedex=A recently discovered Mega Evolution of Durant. It helps it fight against Heatmor, in attempts to resist it's way of hunting for prey.
+BattlerEnemyY=4
+BattlerPlayerY=9
+BattlerAltitude=1
+#--------------------------------
+# Alolan Forms
+#--------------------------------
+[RATTATA-1]
+FormName=Alolan Rattata
+Type1=DARK
+Type2=NORMAL
+Abilities=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+Moves=1,TACKLE,1,TAILWHIP,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,PURSUIT,16,HYPERFANG,19,ASSURANCE,22,CRUNCH,25,SUCKERPUNCH,28,SUPERFANG,31,DOUBLEEDGE,34,ENDEAVOR
+EggMoves=COUNTER,FINALGAMBIT,FURYSWIPES,MEFIRST,REVENGE,REVERSAL,SNATCH,STOCKPILE,SWALLOW,SWITCHEROO,UPROAR
+Weight=3.8
+Color=Black
+Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
+WildItemUncommon=PECHABERRY
+BattlerPlayerY=28
+BattlerEnemyY=4
+Evolutions=RATICATE,LevelNight,20
+BattlerAltitude=0
+#--------------------------------
+[RATICATE-1]
+FormName=Alolan Raticate
+Type1=DARK
+Type2=NORMAL
+BaseStats=75,71,70,77,40,80
+Abilities=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+Moves=1,SWORDSDANCE,1,TACKLE,1,TAILWHIP,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,PURSUIT,16,HYPERFANG,19,ASSURANCE,24,CRUNCH,29,SUCKERPUNCH,34,SUPERFANG,39,DOUBLEEDGE,44,ENDEAVOR
+Weight=25.5
+Color=Black
+Pokedex=It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputs over food happen often.
+WildItemUncommon=PECHABERRY
+BattlerPlayerY=26
+BattlerEnemyY=12
+BattlerAltitude=0
+#--------------------------------
+[RAICHU-1]
+FormName=Alolan Raichu
+Type2=PSYCHIC
+BaseStats=60,85,50,110,95,85
+Abilities=SURGESURFER
+Moves=1,PSYCHIC,1,SPEEDSWAP,1,THUNDERSHOCK,1,TAILWHIP,1,QUICKATTACK,1,THUNDERBOLT
+Height=0.7
+Weight=21.0
+Pokedex=It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic powers to lift it and move about.
+BattlerPlayerY=39
+BattlerEnemyY=25
+BattlerAltitude=4
+#--------------------------------
+[SANDSHREW-1]
+FormName=Alolan Sandshrew
+Type1=ICE
+Type2=STEEL
+BaseStats=50,75,90,40,10,35
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=1,SCRATCH,1,DEFENSECURL,3,BIDE,5,POWDERSNOW,7,ICEBALL,9,RAPIDSPIN,11,FURYCUTTER,14,METALCLAW,17,SWIFT,20,FURYSWIPES,23,IRONDEFENSE,26,SLASH,30,IRONHEAD,34,GYROBALL,38,SWORDSDANCE,42,HAIL,46,BLIZZARD
+EggMoves=AMNESIA,CHIPAWAY,COUNTER,CRUSHCLAW,CURSE,ENDURE,FLAIL,ICICLECRASH,ICICLESPEAR,METALCLAW,NIGHTSLASH
+Height=0.7
+Weight=40.0
+Color=Gray
+Habitat=Mountain
+Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
+WildItemUncommon=GRIPCLAW
+BattlerPlayerY=6
+BattlerEnemyY=3
+Evolutions=SANDSLASH,Item,ICESTONE
+BattlerAltitude=0
+#--------------------------------
+[SANDSLASH-1]
+FormName=Alolan Sandslash
+Type1=ICE
+Type2=STEEL
+BaseStats=75,100,120,65,25,65
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=1,ICICLESPEAR,1,METALBURST,1,ICICLECRASH,1,SLASH,1,DEFENSECURL,1,ICEBALL,1,METALCLAW
+Height=1.2
+Weight=55.0
+Color=Gray
+Habitat=Mountain
+Pokedex=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.
+WildItemUncommon=QUICKCLAW
+BattlerPlayerY=3
+BattlerEnemyY=6
+BattlerAltitude=0
+#--------------------------------
+[VULPIX-1]
+FormName=Alolan Vulpix
+Type1=ICE
+BaseStats=38,41,40,65,50,65
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=1,POWDERSNOW,4,TAILWHIP,7,ROAR,9,BABYDOLLEYES,10,ICESHARD,12,CONFUSERAY,15,ICYWIND,18,PAYBACK,20,MIST,23,FEINTATTACK,26,HEX,28,AURORABEAM,31,EXTRASENSORY,34,SAFEGUARD,36,ICEBEAM,39,IMPRISON,42,BLIZZARD,44,GRUDGE,47,CAPTIVATE,50,SHEERCOLD
+EggMoves=AGILITY,CHARM,DISABLE,ENCORE,EXTRASENSORY,FLAIL,FREEZEDRY,HOWL,HYPNOSIS,MOONBLAST,POWERSWAP,SPITE,SECRETPOWER,TAILSLAP
+Color=White
+Pokedex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
+WildItemUncommon=SNOWBALL
+BattlerPlayerY=11
+BattlerEnemyY=3
+Evolutions=NINETALES,Item,ICESTONE
+BattlerAltitude=0
+#--------------------------------
+[NINETALES-1]
+FormName=Alolan Ninetales
+Type1=ICE
+Type2=FAIRY
+BaseStats=73,67,75,109,81,100
+EffortPoints=0,0,0,2,0,0
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=1,DAZZLINGGLEAM,1,IMPRISON,1,NASTYPLOT,1,ICEBEAM,1,ICESHARD,1,CONFUSERAY,1,SAFEGUARD
+Color=White
+Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
+BattlerPlayerY=27
+BattlerEnemyY=19
+BattlerAltitude=0
+#--------------------------------
+[DIGLETT-1]
+FormName=Alolan Diglett
+Type2=STEEL
+BaseStats=10,55,30,90,35,45
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,28,EARTHPOWER,31,DIG,35,IRONHEAD,39,EARTHQUAKE,43,FISSURE
+EggMoves=ANCIENTPOWER,BEATUP,ENDURE,FEINTATTACK,FINALGAMBIT,HEADBUTT,MEMENTO,METALSOUND,PURSUIT,REVERSAL,THRASH
+Weight=1.0
+Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
+BattlerPlayerY=1
+BattlerEnemyY=2
+BattlerAltitude=0
+#--------------------------------
+[DUGTRIO-1]
+FormName=Alolan Dugtrio
+Type2=STEEL
+BaseStats=35,100,60,110,50,70
+EffortPoints=0,2,0,0,0,0
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=1,SANDTOMB,1,ROTOTILLER,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,30,EARTHPOWER,35,DIG,41,IRONHEAD,47,EARTHQUAKE,53,FISSURE
+Weight=66.6
+Pokedex=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.
+BattlerPlayerY=23
+BattlerEnemyY=21
+BattlerAltitude=0
+#--------------------------------
+[MEOWTH-1]
+FormName=Alolan Meowth
+Type1=DARK
+BaseStats=40,35,35,90,50,40
+Abilities=PICKUP,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,30,PAYDAY,33,SLASH,38,NASTYPLOT,41,ASSURANCE,46,CAPTIVATE,49,NIGHTSLASH,50,FEINT,55,DARKPULSE
+EggMoves=AMNESIA,ASSIST,CHARM,COVET,FLAIL,FLATTER,FOULPLAY,HYPNOSIS,PARTINGSHOT,PUNISHMENT,SNATCH,SPITE
+Color=Gray
+Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
+BattlerEnemyY=4
+Evolutions=PERSIAN,Happiness,
+BattlerPlayerY=2
+BattlerAltitude=0
+#--------------------------------
+[PERSIAN-1]
+FormName=Alolan Persian
+Type1=DARK
+BaseStats=65,60,60,115,75,65
+Abilities=FURCOAT,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=1,SWIFT,1,QUASH,1,PLAYROUGH,1,SWITCHEROO,1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,32,POWERGEM,37,SLASH,44,NASTYPLOT,49,ACUPRESSURE,56,CAPTIVATE,61,NIGHTSLASH,65,FEINT,69,DARKPULSE
+Height=1.1
+Weight=33.0
+Color=Gray
+Pokedex=It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.
+BattlerPlayerY=34
+BattlerEnemyY=10
+BattlerAltitude=0
+#--------------------------------
+[GEODUDE-1]
+FormName=Alolan Geodude
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,28,STEALTHROCK,30,ROCKBLAST,34,DISCHARGE,36,EXPLOSION,40,DOUBLEEDGE,42,STONEEDGE
+EggMoves=AUTOTOMIZE,BLOCK,COUNTER,CURSE,ENDURE,FLAIL,MAGNETRISE,ROCKCLIMB,SCREECH,WIDEGUARD
+Weight=20.3
+Color=Gray
+Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
+WildItemUncommon=CELLBATTERY
+BattlerPlayerY=-26
+BattlerEnemyY=-7
+BattlerAltitude=0
+#--------------------------------
+[GRAVELER-1]
+FormName=Alolan Graveler
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE
+Weight=110.0
+Color=Gray
+Pokedex=Its preferred food is dravite. After it's eaten, crystals form inside the Pokémon, rising to the surface of its body.
+WildItemUncommon=CELLBATTERY
+BattlerPlayerY=18
+BattlerEnemyY=31
+BattlerAltitude=0
+#--------------------------------
+[GOLEM-1]
+FormName=Alolan Golem
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
+Height=1.7
+Weight=316.0
+Color=Brown
+Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
+BattlerPlayerY=3
+BattlerEnemyY=7
+BattlerAltitude=0
+#--------------------------------
+[GRIMER-1]
+FormName=Alolan Grimer
+Type2=DARK
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,43,ACIDARMOR,46,BELCH,48,MEMENTO
+EggMoves=ASSURANCE,CLEARSMOG,CURSE,IMPRISON,MEANLOOK,PURSUIT,SCARYFACE,SHADOWSNEAK,SPITE,SPITUP,STOCKPILE,SWALLOW
+Height=0.7
+Weight=42.0
+Color=Green
+Pokedex=The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
+BattlerPlayerY=15
+BattlerEnemyY=17
+BattlerAltitude=0
+#--------------------------------
+[MUK-1]
+FormName=Alolan Muk
+Type2=DARK
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=1,VENOMDRENCH,1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,46,ACIDARMOR,52,BELCH,57,MEMENTO
+Height=1.0
+Weight=52.0
+Color=Green
+Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
+BattlerPlayerY=42
+BattlerEnemyY=45
+BattlerAltitude=0
+#--------------------------------
+[EXEGGUTOR-1]
+FormName=Alolan Exeggutor
+Type2=DRAGON
+BaseStats=95,105,85,45,125,75
+Abilities=FRISK
+HiddenAbility=HARVEST
+Moves=1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,EGGBOMB,37,WOODHAMMER,47,LEAFSTORM
+Height=10.9
+Weight=415.6
+Color=Yellow
+Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
+BattlerPlayerY=1
+BattlerEnemyY=6
+BattlerAltitude=0
+#--------------------------------
+[MAROWAK-1]
+FormName=Alolan Marowak
+Type1=FIRE
+Type2=GHOST
+Abilities=CURSEDBODY,LIGHTNINGROD
+HiddenAbility=ROCKHEAD
+Moves=1,GROWL,3,TAILWHIP,7,BONECLUB,11,FLAMEWHEEL,13,LEER,17,HEX,21,BONEMERANG,23,WILLOWISP,27,SHADOWBONE,33,THRASH,37,FLING,43,STOMPINGTANTRUM,49,ENDEAVOR,53,FLAREBLITZ,59,RETALIATE,65,BONERUSH
+Weight=34.0
+Color=Purple
+Pokedex=Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
+BattlerPlayerY=3
+BattlerEnemyY=15
+BattlerAltitude=0
+#-------------------------------
+# Galarian Forms
+#-------------------------------
+[SLOWKING,1]
+FormName = Galarian Slowking
+Type1 = POISON
+Type2 = PSYCHIC
+Abilities = CURIOUSMEDICINE,OWNTEMPO
+Moves = 0,EERIESPELL,1,EERIESPELL,1,POWERGEM,1,NASTYPLOT,1,SWAGGER,1,TACKLE,1,CURSE,1,GROWL,1,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,39,PSYCHUP,42,RAINDANCE,45,HEALPULSE
+Weight = 70.5
+Color = White
+Pokedex = While chanting strange spells, this Pokémon combines its internal toxins with what it’s eaten, creating strange potions.
+BattlerEnemyY = 25
+#-------------------------------
+[ARTICUNO,1]
+FormName = Galarian Articuno
+Type1 = PSYCHIC
+Type2 = FLYING
+BaseStats = 90,85,85,95,125,100
+EffortPoints = 0,0,0,0,3,0
+Abilities = COMPETITIVE
+HiddenAbility = COMPETITIVE
+Moves = 1,GUST,1,PSYCHOSHIFT,5,CONFUSION,10,REFLECT,15,HYPNOSIS,20,AGILITY,25,ANCIENTPOWER,30,TAILWIND,35,PSYCHOCUT,40,RECOVER,45,FREEZINGGLARE,50,DREAMEATER,55,HURRICANE,60,MINDREADER,65,FUTURESIGHT,70,TRICKROOM
+Weight = 50.9
+Shape = 9
+Habitat = Rare
+Kind = Cruel
+Pokedex = Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper.
+#-------------------------------
+[ZAPDOS,1]
+FormName = Galarian Zapdos
+Type1 = FIGHTING
+Type2 = FLYING
+BaseStats = 90,125,90,100,85,90
+EffortPoints = 0,3,0,0,0,0
+Abilities = DEFIANT
+HiddenAbility = DEFIANT
+Moves = 1,PECK,1,FOCUSENERGY,5,ROCKSMASH,10,LIGHTSCREEN,15,PLUCK,20,AGILITY,25,ANCIENTPOWER,30,BRICKBREAK,35,DRILLPECK,40,QUICKGUARD,45,THUNDEROUSKICK,50,BULKUP,55,COUNTER,60,DETECT,65,CLOSECOMBAT,70,REVERSAL
+Weight = 58.2
+Shape = 9
+Habitat = Rare
+Kind = Strong Legs
+Pokedex = One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.
+#-------------------------------
+[MOLTRES,1]
+FormName = Galarian Moltres
+Type1 = DARK
+Type2 = FLYING
+BaseStats = 90,85,90,90,100,125
+EffortPoints = 0,0,0,0,0,3
+Abilities = BERSERK
+HiddenAbility = BERSERK
+Moves = 1,GUST,1,LEER,5,PAYBACK,10,SAFEGUARD,15,WINGATTACK,20,AGILITY,25,ANCIENTPOWER,30,SUCKERPUNCH,35,AIRSLASH,40,AFTERYOU,45,FIERYWRATH,50,NASTYPLOT,55,HURRICANE,60,ENDURE,65,MEMENTO,70,SKYATTACK
+Height = 1.7
+Weight = 50.9
+Shape = 9
+Habitat = Rare
+Kind = Malevolent
+Pokedex = This Pokemon's sinister,flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
+#-------------------------------
+[CORSOLA-1]
+FormName=Galarian Corsola
+BaseStats=60,55,100,65,100,30
+Type1=WATER
+Type2=GHOST
+BattlerEnemyY=10
+BattlerPlayerY=8
+BattlerAltitude=0
+#------------------------------
+[ZIGZAGOON-1]
+FormName=Galarian Zigzagoon
+Type1=NORMAL
+Type2=DARK
+BattlerEnemyY=12
+BattlerPlayerY=10
+BattlerAltitude=0
+#------------------------------
+[LINOONE-1]
+FormName=Galarian Linoone
+Type1=NORMAL
+Type2=DARK
+BattlerEnemyY=24
+BattlerPlayerY=20
+BattlerAltitude=0
+#------------------------------
+[PONYTA-1]
+FormName=Galarian Ponyta
+Type1=PSYCHIC
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#------------------------------
+[RAPIDASH-1]
+FormName=Galarian Rapidash
+Type1=PSYCHIC
+Type2=FAIRY
+BattlerEnemyY=5
+BattlerPlayerY=0
+BattlerAltitude=0
+#------------------------------
+[MRMIME-1]
+FormName=Galarian Mr.Mime
+BaseStats=50,65,65,90,90,100
+Type1=ICE
+Type2=PSYCHIC
+BattlerEnemyY=6
+BattlerPlayerY=2
+BattlerAltitude=0
+#------------------------------
+[FARFETCHD-1]
+FormName=Galarian Farfetch'd
+Type1=FIGHTING
+BaseStats=52,95,55,58,62,55
+Evolution=SIRFETCHD,Level,30
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#------------------------------
+[WEEZING-1]
+FormName=Galarian Weezing
+Type1=POISON
+Type2=FAIRY
+BattlerEnemyY=14
+BattlerPlayerY=12
+BattlerAltitude=10
+#------------------------------
+[DARUMAKA-1]
+FormName=Galarian Darumaka
+Type1=ICE
+Evolution=DARMANITAN-2,Level,20
+BattlerEnemyY=5
+BattlerPlayerY=2
+BattlerAltitude=0
+#------------------------------
+[DARMANITAN-2]
+FormName=Galarian Darmanitan
+Type1=ICE
+BattlerEnemyY=7
+BattlerPlayerY=2
+BattlerAltitude=0
+#------------------------------
+[DARMANITAN-3]
+FormName=Galarian Darmanitan Zen Mode
+Type1=ICE
+Type2=FIRE
+BaseStats=105,160,55,40,55,135
+BattlerEnemyY=7
+BattlerPlayerY=2
+BattlerAltitude=0
+#------------------------------
+[YAMASK-1]
+FormName=Galarian Yamask
+Type1=GROUND
+Type2=GHOST
+BaseStats=38,55,85,30,65,30
+Evolution=RUNERIGUS,Level,30
+BattlerEnemyY=18
+BattlerPlayerY=12
+BattlerAltitude=20
+#------------------------------
+[STUNFISK-1]
+FormName=Galarian Stunfisk
+Type1=GROUND
+Type2=STEEL
+BaseStats=109,81,99,66,84,32
+BattlerEnemyY=13
+BattlerPlayerY=25
+BattlerAltitude=0
+#------------------------------
+[SLOWPOKE-1]
+FormName=Galarian Slowpoke
+Abilities=GLUTTONY,OWNTEMPO
+BaseStats=90,65,65,40,40,15
+EffortPoints=1,0,0,0,0,0
+Type1=PSYCHIC
+Moves=1,CURSE,1,TACKLE,3,GROWL,6,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,39,PSYCHUP,42,RAINDANCE,45,HEALPULSE
+BattlerEnemyY=10
+BattlerPlayerY=8
+BattlerAltitude=0
+Evolutions=SLOWBRO,Item,GALARICACUFF
+#------------------------------
+[SLOWBRO-2]
+FormName=Galarian Slowbro
+Abilities=QUICKDRAW
+BaseStats=95,100,95,100,70,30
+EffortPoints=0,0,0,0,0,0
+Type1=POISON
+Type2=PSYCHIC
+Moves=0,SHELLSIDEARM,1,CURSE,1,TACKLE,1,WATERGUN,1,WITHDRAW,1,SHELLSIDEARM,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,41,PSYCHUP,46,RAINDANCE,51,HEALPULSE
+BattlerEnemyY=10
+BattlerPlayerY=8
+BattlerAltitude=0
+#------------------------------
+# Hyosetsan Forms
+#--------------------------------
+[BULBASAUR-1]
+FormName=Hyosetsan Bulbasaur
+Type2=FAIRY
+Moves=1,TACKLE,3,PLAYNICE,7,LEECHSEED,9,VINEWHIP,13,MOONLIGHT,13,HYPNOSIS,15,TAKEDOWN,19,RAZORLEAF,21,SWEETSCENT,25,GROWTH,27,DOUBLEEDGE,31,WORRYSEED,33,PSYCHIC,37,SEEDBOMB
+Abilities=EFFECTSPORE
+Kind=Weed
+Pokedex=This Pokemon soaks in moonlight and uses it to power itself up.
+Evolution=IVYSAUR-1,Level,16
+BattlerEnemyY=4
+BattlerPlayerY=1
+BattlerAltitude=0
+#-------------------------------
+[IVYSAUR-1]
+FormName=Hyosetsan Ivysaur
+Type2=FAIRY
+Abilities=EFFECTSPORE
+Moves=1,TACKLE,1,PLAYNICE,1,LEECHSEED,3,GROWL,7,LEECHSEED,9,VINEWHIP,13,MOONLIGHT,13,HYPNOSIS,15,TAKEDOWN,20,RAZORLEAF,23,MOONBLAST,28,GROWTH,31,FAIRYWIND,36,WORRYSEED,39,PSYCHIC,47,SOLARBEAM
+Kind=Bulb
+Pokedex=It's bulb can fire moon energy to attack foes, and absorb their life forces.
+Evolution=VENUSAUR-1,Level,32
+BattlerEnemyY=8
+BattlerPlayerY=6
+BattlerAltitude=0
+#-------------------------------
+[VENUSAUR-1]
+FormName=Hyosetsan Venusaur
+Type2=FAIRY
+Moves=1,TACKLE,1,PLAYNICE,1,LEECHSEED,1,VINEWHIP,3,PLAYNICE,7,LEECHSEED,9,VINEWHIP,13,MOONLIGHT,13,HYPNOSIS,15,TAKEDOWN,20,RAZORLEAF,23,MOONBLAST,28,GROWTH,31,FAIRYWIND,32,PETALDANCE,39,PLAYROUGH,45,PSYSTRIKE,47,SOLARBEAM
+Abilities=EFFECTSPORE
+Kind=Caretaker
+Pokedex=It tends to be the caretaker of many Bulbasaurs, Kantonian or Hyosetsan.
+BattlerEnemyY=14
+BattlerPlayerY=13
+BattlerAltitude=0
+#-------------------------------
+[GROWLITHE-1]
+FormName=Hyosetsan Growlithe
+Type1=DARK
+Type2=ELECTRIC
+BaseStats=50,64,36,76,54,85
+Abilities=INTIMIDATE,PRESSURE
+HiddenAbility=LIGHTNINGROD
+Moves=1,THUNDERSHOCK,1,POWERTRIP,1,LEER,4,HOWL,8,PURSUIT,12,SHOCKWAVE,16,HELPINGHAND,20,AGILITY,24,BITE,28,RETALIATE,32,CRUNCH,36,TAKEDOWN,44,ROAR,48,PLAYROUGH,52,REVERSAL,56,THUNDER
+EggMoves=AGILITY,CHARGE,THUNDERWAVE,ELECTROBALL
+Color=Gray
+Kind=Zap
+Pokedex=It releases uncontrollable electrical pulses from it's back, it uses this to ambush it's foes.
+RegionalNumbers=152
+BattlerPlayerY=0
+BattlerEnemyY=4
+Evolutions=ARCANINE,Item,THUNDERSTONE
+BattlerAltitude=0
+#-------------------------------
+[ARCANINE-1]
+FormName=Hyosetsan Arcanine
+Type1=DARK
+Type2=ELECTRIC
+BaseStats=85,105,79,109,65,120
+Abilities=INTIMIDATE,PRESSURE
+HiddenAbility=LIGHTNINGROD
+Moves=0,EXTREMESPEED,1,EXTREMESPEED,1,FOULPLAY,1,SHOCKWAVE,1,HELPINGHAND,1,AGILITY,1,BITE,1,RETALIATE,1,CRUNCH,1,TAKEDOWN,1,THUNDERBOLT,1,ROAR,1,PLAYROUGH,1,REVERSAL,1,THUNDER,1,THUNDERSHOCK,1,LEER,1,HOWL,1,PURSUIT
+Color=Gray
+Kind=Electric
+Pokedex=It has learned to control the electrical pulses coming off of is back. Any full force hit from it is sure to knock out the target.
+RegionalNumbers=153
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+#-------------------------------
+[DRILBUR-1]
+FormName=Hyosetsan Drilbur
+Type1=GROUND
+Type2=ICE
+BaseStats=60,85,47,64,52,93
+Abilities=REFRIGERATE
+HiddenAbility=SYMBIOSIS
+Moves=1,MUDSLAP,1,RAPIDSPIN,1,ICESHARD,4,SCRATCH,8,HONECLAWS,10,COLDBREEZE,12,FURYSWIPES,16,AVALANCHE,20,SANDSTORM,22,HAIL,24,CRUSHCLAW,28,ROCKSLIDE,30,ICEFANG,32,DIG,36,SWORDSDANCE,40,DRILLRUN,42,ICEPUNCH,44,EARTHQUAKE,48,FISSURE,52,SHEERCOLD
+EggMoves=DIG,MAGNITUDE,EARTHQUAKE,ICICLEDROP
+Color=White
+Kind=Digging
+Pokedex=It's white fur allows it to camouflague in snow, and with it's exceptional digging skill, it almost seems like it's teleporting!
+BattlerPlayerY=0
+BattlerEnemyY=4
+Evolution=EXCADRILL,Level,31
+BattlerAltitude=0
+#-------------------------------
+[EXCADRILL-1]
+FormName=Hyosetsan Excadrill
+Type1=GROUND
+Type2=ICE
+BaseStats=100,120,67,94,68,100
+Abilities=REFRIGERATE
+HiddenAbility=PRESSURE
+Moves=0,HORNDRILL,1,HORNDRILL,1,RAPIDSPIN,1,ICESHARD,1,MUDSLAP,1,SCRATCH,1,HONECLAWS,1,METALCLAW,12,FURYSWIPES,16,AVALANCHE,20,SANDSTORM,22,HAIL,24,CRUSHCLAW,28,ROCKSLIDE,32,ICEFANG,34,DIG,40,SWORDSDANCE,46,DRILLRUN,50,ICEPUNCH,52,EARTHQUAKE,58,FISSURE,60,SHEERCOLD
+Color=White
+Kind=Digging
+Pokedex=When it's victim is atop it, it attacks from underground in the blink of an eye.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+#-------------------------------
+[STONJOURNER-1]
+FormName=Hyosetsan Stonjourner
+Type1=ROCK
+Type2=ICE
+BaseStats=96,100,140,43,76,38
+Abilities=NEUROFORCE
+HiddenAbility=REFRIGERATE
+Moves=1,DRIBBLE,1,ROCKTHROW,6,ROCKPOLISH,12,ROCKTOMB,16,ICEFANG,18,GRAVITY,21,ICEPUNCH,24,AVALANCHE,30,STEALTHROCK,36,ROCKSLIDE,40,COLDBREEZE,42,BODYSLAM,48,WIDEGUARD,54,HEAVYSLAM,60,STONEEDGE,62,ICEHAMMER,66,ICICLECRASH
+Color=Blue
+Kind=Ice Block
+Pokedex=It's icy body easilly cracks, but it's still very strong, Delivering fatal kicks.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+#------------------------------
+[TURTONATOR-1]
+FormName=Hyosetsan Turtonator
+Type1=STEEL
+Type2=DRAGON
+BaseStats=60,30,160,78,50,30
+Abilities=NEUROFORCE
+HiddenAbility=REFRIGERATE
+Moves=1,AUTOTOMIZE,1,TACKLE,5,SMOG,9,PROTECT,13,BULLETPUNCH,17,FLAIL,21,ENDURE,25,IRONDEFENSE,29,FLASHCANNON,33,BODYSLAM,37,SHELLSMASH,41,DRAGONPULSE,45,SHELLTRAP,49,IRONTAIL,52,STEELBEAM,53,EXPLOSION
+EggMoves=WIDEGUARD,REVENGE,HEADSMASH,FIRESPIN
+Color=Gray
+Kind=Steel Shield
+Pokedex=It's body, made of steel in Hyosetsu, is one of the strongest types of steel. However, it's not the best attacking opponents.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+#-------------------------------
+[CYNDAQUIL-1]
+FormName=Hyosetsan Cyndaquil
+Type2=ICE
+BaseStats=39,60,40,80,40,50
+Abilities=SNOWCLOAK
+HiddenAbility=REFRIGERATE
+Moves=1,TACKLE,1,LEER,6,SMOKESCREEN,10,ICYWIND,13,QUICKATTACK,19,COLDBREEZE,22,DEFENSECURL,28,ICEPUNCH,31,SWIFT,37,ICESHARD,40,ICEBEAM,46,BLIZZARD,49,ROLLOUT,55,DOUBLEEDGE,58,SHEERCOLD
+EggMoves=COVET,CRUSHCLAW,DOUBLEEDGE,DOUBLEKICK,EXTRASENSORY,HAIL,AURORABEAM,FORESIGHT,FURYSWIPES,HOWL,NATUREPOWER,QUICKATTACK,REVERSAL,THRASH,WATERSPORT
+Color=Blue
+Kind=Frost
+Pokedex=Cyndaquil always emits freezing winds from it, it blows it away from itself to attack it's enemies.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+#-------------------------------
+[QUILAVA-1]
+FormName=Hyosetsan Quilava
+Type2=ICE
+BaseStats=58,70,50,90,70,65
+Abilities=SNOWCLOAK
+HiddenAbility=REFRIGERATE
+Moves=1,TACKLE,1,LEER,1,SMOKESCREEN,6,SMOKESCREEN,10,ICYWIND,13,QUICKATTACK,20,COLDBREEZE,24,DEFENSECURL,31,SWIFT,35,ICEPUNCH,42,ICESHARD,46,ICEBEAM,53,BLIZZARD,57,ROLLOUT,64,DOUBLEEDGE,68,SHEERCOLD
+Color=Blue
+Kind=Frost
+Pokedex=Quilava grows ice all over it's body, it stabs it's foes with spiky ice.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+Evolutions=
+#-------------------------------
+[LICKITUNG-1]
+FormName=Hyosetsan Lickitung
+Type1=DRAGON
+Type2=FAIRY
+BaseStats=90,60,85,35,70,50
+Abilities=FAIRYAURA,PIXILATE
+HiddenAbility=MISTYSURGE
+Moves=1,LICK,5,DISARMINGVOICE,9,DEFENSECURL,13,KNOCKOFF,17,DRAGONTAIL,21,DRAININGKISS,25,DAZZLINGGLEAM,29,DRAGONCLAW,33,ROLLOUT,35,DRAGONTONGUE,37,MOONBLAST,41,MEFIRST,45,PLAYROUGH,49,DRAGONRUSH,53,POWERWHIP,57,WRINGOUT,60,DRACOMETEOR,80,GUILLOTINE
+EggMoves=AMNESIA,BELLYDRUM,DRAGONRAGE,CURSE,HAMMERARM,MAGNITUDE,MUDDYWATER,TWISTER,SMELLINGSALTS,SNORE,ZENHEADBUTT,MISTYEXPLOSION
+Compatibility=Monster,Dragon
+Weight=125.3
+Color=Gray
+Habitat=Mountain
+Pokedex=Lickitung in Hyosetsu are more menacing then usual, but deep down, they dont want to cause harm. It doesnt know the difference between a good taste and a bad taste, so it licks everything.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=0
+Evolutions=LICKILICKY,HasMove,DRAGONTONGUE
+#-------------------------------
+[MAGNEMITE-1]
+FormName=Hyosetsan Magnemite
+Type1=SOUND
+Type2=STEEL
+BaseStats=43,23,70,75,54,65
+Abilities=SOUNDPROOF,STURDY
+HiddenAbility=ANALYTIC
+Moves=1,TACKLE,4,SUPERSONIC,7,SOUNDSTIR,11,SONICBOOM,15,DISARMINGVOICE,18,HARMINGVOICE,21,NOISEBARRIER,25,MIRRORSHOT,29,METALSOUND,32,BLASTBALL,35,FLASHCANNON,39,SCREECH,43,SHATTERBLAST,46,LOCKON,49,MAGNETRISE,53,GYROBALL,57,ZAPCANNON
+Compatibility=Mineral
+Weight=85.8
+Color=Gray
+Habitat=Urban
+Pokedex=Magnemite love music. In the hyosetsu region, you could probably hear tunes from the locations Magnemites reside in.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=1
+Evolutions=
+#-------------------------------
+[MAGNETON-1]
+FormName=Hyosetsan Magneton
+Type1=SOUND
+Type2=STEEL
+BaseStats=76,43,120,110,85,78
+Abilities=SOUNDPROOF,STURDY
+HiddenAbility=ANALYTIC
+Moves=1,TRIATTACK,1,TACKLE,1,SUPERSONIC,1,SOUNDSTIR,1,SONICBOOM,10,DISARMINGVOICE,20,HARMINGVOICE,21,NOISEBARRIER,25,MIRRORSHOT,29,METALSOUND,32,BLASTBALL,35,FLASHCANNON,39,SCREECH,43,SHATTERBLAST,46,LOCKON,49,MAGNETRISE,53,GYROBALL,57,ZAPCANNON
+Compatibility=Mineral
+Weight=176.9
+Color=Gray
+Habitat=Urban
+Pokedex=People report suffering from small headaches after being around Hyosetsan Magneton. This is because they constantly emit sound waves.
+BattlerPlayerY=0
+BattlerEnemyY=4
+BattlerAltitude=1
+Evolutions=
+#-------------------------------
+# Gigantamax
+#------------------------------
+[MEOWTH-3]
+FormName=Gigantamax Meowth
+Pokedex=The pattern that has appeared on it's giant coin is thought to be the key to unlocking the secrets of the Dynamax phenomenon.
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
+#-------------------------------
+[COPPERAJAH-1]
+FormName=Gigantamax Copperajah
+BattlerEnemyY=37
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[CORVIKNIGHT-1]
+FormName=Gigantamax Corviknight
+Pokedex=Imbued with Gigantamax energy, it's winds can whip up winds more forceful than any a hurricane could muster. The gust blows everything away.
+BattlerEnemyY=18
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[FLAPPLE-1]
+FormName=Gigantamax Flapple
+Pokedex=Under the influence of Gigantamax Energy, it produces much more sweet nectar, and it's shape has changed to resemble a Giant Apple.
+BattlerEnemyY=42
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[APPLETUN-1]
+FormName=Gigantamax Appletun
+Pokedex=It blasts it's opponents with massive amounts of sweet, sticky nectar, drowning them under the deluge.
+BattlerEnemyY=30
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[DREDNAW-1]
+FormName=Gigantamax Drednaw
+BattlerEnemyY=28
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[BUTTERFREE-1]
+FormName=Gigantamax Butterfree
+Pokedex=Crystalised Gigantamax energy makes up this Pokemon's blindingly bright and highly toxic scales.
+BattlerEnemyY=13
+BattlerPlayerY=10
+BattlerAltitude=20
+#-------------------------------
+[LAPRAS-1]
+FormName=Gigantamax Lapras
+Pokedex=Over 5000 people can ride on it's shell at once, and it's a very comfortable ride, without the slightest shaking or swaying.
+BattlerEnemyY=7
+BattlerPlayerY=3
+BattlerAltitude=0
+#-------------------------------
+[CHARIZARD-3]
+FormName=Gigantamax Charizard
+Pokedex=This colossal, flame-winged figure of a charizard was brought about by Gigantamax energy.
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[VENUSAUR-4]
+FormName=Gigantamax Venusaur
+Pokedex=In battle, this Pokémon swings around two thick vines. If these vines slammed into a 10-story building, they could easily topple it.
+BattlerEnemyY=4
+BattlerPlayerY=8
+BattlerAltitude=0
+#-------------------------------
+[INTELEON-1]
+FormName=Gigantamax Inteleon
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[RILLABOOM-1]
+FormName=Gigantamax Rillaboom
+BattlerEnemyY=28
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
+[ICESCREAM-4]
+FormName=Gigantamax Icescream
+Pokedex=In this form, it could topple buildings with it's screams, and easilly deafen nearby humans and pokemon.
+BattlerEnemyY=4
+BattlerPlayerY=0
+BattlerAltitude=0
+#-------------------------------
