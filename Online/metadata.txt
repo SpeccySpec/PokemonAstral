@@ -1,0 +1,153 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+PlayerA = POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB = POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+TrainerVictoryME = Battle/TrainerVictory.ogg
+WildVictoryME = Battle/WildVictory.ogg
+TrainerBattleBGM = Battle/TrainerBattle.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Bicycle.mid
+Home = 4,5,5,8
+WildBattleBGM = Battle/WildBattle.ogg
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Simius Village
+Bicycle = true
+MapPosition = 0,13,12
+Outdoor = true
+Environment = TallGrass
+ShowArea = true
+#-------------------------------
+[003]
+# \PN's Room
+BattleBack = IndoorB
+MapPosition = 0,13,12
+Outdoor = false
+HealingSpot = 2,8,8
+ShowArea = false
+#-------------------------------
+[004]
+# \PN's House
+MapPosition = 0,13,12
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[005]
+# Aluua Region
+SnapEdges = true
+Weather = HeavyRain,100
+Bicycle = false
+SafariMap = true
+DarkMap = true
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[006]
+# Pokémon Lab
+Bicycle = false
+MapPosition = 0,13,11
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[007]
+# Route 1
+MapSize = 2,11
+Bicycle = true
+MapPosition = 0,13,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[008]
+# Iteq Village
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[009]
+# Route 2
+SnapEdges = true
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[013]
+# Route 3
+Bicycle = true
+Outdoor = true
+BicycleAlways = false
+Environment = None
+ShowArea = true
+#-------------------------------
+[014]
+# Floralia City
+Bicycle = true
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[015]
+# Pokémon Center
+Bicycle = false
+Outdoor = false
+BicycleAlways = false
+HealingSpot = 14,12,11
+ShowArea = true
+#-------------------------------
+[016]
+# Floralia Gym
+SnapEdges = false
+Bicycle = false
+Outdoor = false
+BicycleAlways = false
+Environment = None
+ShowArea = false
+#-------------------------------
+[017]
+# Iteq Woods
+SnapEdges = true
+Bicycle = true
+Outdoor = true
+BicycleAlways = false
+Environment = ForestGrass
+ShowArea = true
+#-------------------------------
+[018]
+# Route 4
+Weather = Sunny,100
+Bicycle = true
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[019]
+# Seasole City
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[020]
+# Pokémon Center
+Bicycle = false
+Outdoor = false
+BicycleAlways = false
+HealingSpot = 19,14,45
+ShowArea = false
+#-------------------------------
+[021]
+# Seasole Gym
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[024]
+# Floralia Lake
+Bicycle = false
+Outdoor = true
+BicycleAlways = false
+Environment = StillWater
+ShowArea = false
